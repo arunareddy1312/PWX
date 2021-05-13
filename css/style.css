@@ -25,12 +25,7 @@ body {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a {
-<<<<<<< HEAD
-    font-size  : large;
-    font-weight: bold;
-=======
     font-size: large;
->>>>>>> 1fc6af03decd6cc42b93513a2b57321650be95aa
 }
 
 .ui-tabs .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor,
@@ -43,12 +38,6 @@ span.ui-accordion-header-icon {
     float: right;
 }
 
-<<<<<<< HEAD
-.panel-center-title {
-    text-align : center;
-    font-size  : 30px;
-    font-weight: bold;
-=======
 .ui-accordion .ui-accordion-content {
     line-height: 1.5;
     font-size  : 17px;
@@ -57,5 +46,4 @@ span.ui-accordion-header-icon {
 .ui-accordion .ui-accordion-header {
     padding       : 20px;
     text-transform: uppercase;
->>>>>>> 1fc6af03decd6cc42b93513a2b57321650be95aa
 }
