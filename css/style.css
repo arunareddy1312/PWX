@@ -26,6 +26,7 @@ body {
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a {
     font-size: large;
+    text-transform: uppercase;
 }
 
 .ui-tabs .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor,
@@ -56,6 +57,7 @@ span.ui-accordion-header-icon {
     margin     : 2px;
     font-size  : 16px;
     font-weight: initial;
+    text-transform: uppercase;
 }
 
 .panel-center-title {
