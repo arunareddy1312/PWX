@@ -62,3 +62,8 @@ span.ui-accordion-header-icon {
     text-align: center;
     font-size : 25px;
 }
+
+.blockquote {
+    line-height: 1;
+    border-left: 15px solid #4e5d6c;
+}
