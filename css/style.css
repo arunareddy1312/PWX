@@ -1,3 +1,12 @@
 body {
     background-color: aliceblue;
 }
+
+.panel.panel-default .panel-body {
+    background-color: #FFFFFF;
+    color           : #485563;
+}
+
+.panel.panel-default {
+    border: 1px solid #485563;
+}
