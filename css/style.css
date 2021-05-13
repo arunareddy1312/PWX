@@ -47,3 +47,13 @@ span.ui-accordion-header-icon {
     padding       : 20px;
     text-transform: uppercase;
 }
+
+.navbar-brand {
+    padding: 5px;
+}
+
+.navbar-text {
+    margin   : 2px;
+    font-size: 16px;
+    font-weight: initial;
+}
