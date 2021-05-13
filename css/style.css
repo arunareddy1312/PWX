@@ -19,13 +19,13 @@ body {
     color           : #ff004c;
     background-color: #485563
 }
+
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a {
     font-size: large;
-    font-weight: bold;
 }
 
 .ui-tabs .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor,
@@ -36,4 +36,14 @@ body {
 
 span.ui-accordion-header-icon {
     float: right;
+}
+
+.ui-accordion .ui-accordion-content {
+    line-height: 1.5;
+    font-size  : 17px;
+}
+
+.ui-accordion .ui-accordion-header {
+    padding       : 20px;
+    text-transform: uppercase;
 }
