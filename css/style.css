@@ -25,7 +25,7 @@ body {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a {
-    font-size: large;
+    font-size     : large;
     text-transform: uppercase;
 }
 
@@ -54,9 +54,9 @@ span.ui-accordion-header-icon {
 }
 
 .navbar-text {
-    margin     : 2px;
-    font-size  : 16px;
-    font-weight: initial;
+    margin        : 2px;
+    font-size     : 16px;
+    font-weight   : initial;
     text-transform: uppercase;
 }
 
@@ -68,4 +68,36 @@ span.ui-accordion-header-icon {
 .blockquote {
     line-height: 1;
     border-left: 15px solid #4e5d6c;
+}
+
+.content-para-line-height p {
+    text-align : justify;
+    line-height: 1.5;
+}
+
+.blockquote>p:first-child {
+    text-transform: uppercase;
+}
+.address-contact-page { 
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.input-box-spacing-contact{
+    border: 2px solid black;
+    margin-bottom: 35px;
+}
+.name-contact-top-margin{
+    margin-top: 35px
+}
+.btn-contact-page{
+    color: #FFFFFF;
+    background-color: #485563;
+    margin-bottom: 30px;
+}
+
+.gmap_canvas {
+    display: flex;
+    border: 1px solid black;
 }
