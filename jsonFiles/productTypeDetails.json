@@ -3,33 +3,41 @@
         "accessories": {
             "headerTitle": "accessories",
             "menuItems": [
-                "accessoriesCat1",
-                "accessoriesCat2",
-                "accessoriesCat3"
+                "Cabinetry/Storage",
+                "Cassettes/CR",
+                "Exam Room Product",
+                "Film/Cassette Cases",
+                "Caddies/Racks/Foam",
+                "X-Ray Markers"
             ]
         },
         "equipments": {
-            "headerTitle": "accessories",
+            "headerTitle": "equipments",
             "menuItems": [
-                "equipmentsCat1",
-                "equipmentsCat2",
-                "equipmentsCat3"
+                "Darkroom Equipment",
+                "Digital/DICOM/PACS",
+                "Medical/Care Equipment",
+                "Power and Exam Tables",
+                "Portable Radiographic",
+                "Radiation Survey Meters",
+                "Silver Recovery Systems",
+                "Film Viewboxes"
             ]
         },
         "supplies": {
-            "headerTitle": "accessories",
+            "headerTitle": "supplies",
             "menuItems": [
-                "suppliesCat1",
-                "suppliesCat2",
-                "suppliesCat3"
+                "Custom Printed Media",
+                "Jacket Labels/Dispensers",
+                "Processing Chemistry"
             ]
         },
         "parts": {
-            "headerTitle": "accessories",
+            "headerTitle": "parts",
             "menuItems": [
-                "partsCat1",
-                "partsCat2",
-                "partsCat3"
+                "X-Ray Grids",
+                "Collimator Lamps",
+                "High Voltage Cables"
             ]
         }
     }
