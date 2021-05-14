@@ -1,0 +1,36 @@
+{
+    "productTypeDetails": {
+        "accessories": {
+            "headerTitle": "accessories",
+            "menuItems": [
+                "accessoriesCat1",
+                "accessoriesCat2",
+                "accessoriesCat3"
+            ]
+        },
+        "equipments": {
+            "headerTitle": "accessories",
+            "menuItems": [
+                "equipmentsCat1",
+                "equipmentsCat2",
+                "equipmentsCat3"
+            ]
+        },
+        "supplies": {
+            "headerTitle": "accessories",
+            "menuItems": [
+                "suppliesCat1",
+                "suppliesCat2",
+                "suppliesCat3"
+            ]
+        },
+        "parts": {
+            "headerTitle": "accessories",
+            "menuItems": [
+                "partsCat1",
+                "partsCat2",
+                "partsCat3"
+            ]
+        }
+    }
+}
