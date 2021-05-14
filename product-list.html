@@ -15,7 +15,7 @@
         integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="jquery-ui-1.12.1/jquery-ui.min.js"></script>
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="scripts/main.js"></script>
+    <script src="scripts/product-list.js"></script>
 </head>
 
 <body>
@@ -45,42 +45,38 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="About.html">About</a></li>
                     <li><a href="contact.html">Contact Us</a></li>
-                    <li><a href="#">Equipments</a></li>
-                    <li><a href="#">Supplies</a></li>
-                    <li><a href="#">Accessories</a></li>
-                    <li><a href="#">Parts</a></li>
+                    <li><a href="product-list.html?productType=equipments">Equipments</a></li>
+                    <li><a href="product-list.html?productType=supplies">Supplies</a></li>
+                    <li><a href="product-list.html?productType=accessories">Accessories</a></li>
+                    <li><a href="product-list.html?productType=parts">Parts</a></li>
                     <li><a href="information.html">Order Now</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
     </nav>
     <div class="container-fluid">
-              <div class="panel panel-default">
-               <div class="panel-heading">
-                   <h3 class="panel-title panel-center-title">SUPPLIES</h3>
-               </div>
-               <div class="panel-body">
-                   <div class="col-md-2">
-                       <div class="panel panel-default">
-                           <!-- <div class="panel-body" > -->
-                               <ul id="menu">
-                                   <li><div>Custom Printed Media</div></li>
-                                   <li><div>Jacket Labels/Dispensers</div></li>
-                                   <li><div>Processing Chemistry</div></li>                                                                                            
-                                 </ul>
-                           <!-- </div> -->
-                         </div>
-                   </div>
-                   <div class="col-md-10">
-                       <div class="panel panel-default">
-                           <div class="panel-body">
-                             Basic panel example
-                           </div>
-                         </div>
-                   </div>
-               </div>
-           </div>
-        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 id="page-title" class="panel-title panel-center-title">Panel title</h3>
+            </div>
+            <div class="panel-body">
+                <div class="col-md-2">
+                    <div class="panel panel-default">
+                        <!-- <div class="panel-body" > -->
+                            <ul id="sub-category-menu"></ul>
+                        <!-- </div> -->
+                      </div>
+                </div>
+                <div class="col-md-10">
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <div class="imgcontainer"></div>
+                        </div>
+                      </div>
+                </div>
+            </div>
+        </div>    
+      </div>
 </body>
 
 </html>
