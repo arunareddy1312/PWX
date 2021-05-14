@@ -18,7 +18,8 @@
         integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="jquery-ui-1.12.1/jquery-ui.min.js"></script>
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.4.5/js/bootstrapvalidator.min.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.4.5/js/bootstrapvalidator.min.js"></script>
     <script src="scripts/main.js"></script>
 </head>
 
@@ -65,20 +66,22 @@
                     <div class="panel-heading">
                         <h3 class="panel-title panel-center-title">CONTACT</h3>
                     </div>
-                    <div class="panel-body" style="min-height: 686px;padding-top:50px">
+                    <div class="panel-body" style="min-height: 685px;padding-top:50px">
                         <div class="col-md-offset-2 col-md-8">
                             <form class="contact_form" action=" " method="post" id="contact_form" autocomplete="off">
                                 <fieldset>
                                     <div class="form-group">
                                         <div class="input-group">
-                                            <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                                            <span class="input-group-addon"><i
+                                                    class="glyphicon glyphicon-user"></i></span>
                                             <input id="fname" name="fname" type="text" placeholder="First Name"
                                                 class="form-control">
                                         </div>
                                     </div>
                                     <div class="form-group ">
                                         <div class="input-group">
-                                            <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+                                            <span class="input-group-addon"><i
+                                                    class="glyphicon glyphicon-user"></i></span>
                                             <input id="lname" name="lname" type="text" placeholder="Last Name"
                                                 class="form-control">
                                         </div>
@@ -100,8 +103,9 @@
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                          <div class="input-group">
-                                            <span class="input-group-addon"><i class="glyphicon glyphicon-globe"></i></span>
+                                        <div class="input-group">
+                                            <span class="input-group-addon"><i
+                                                    class="glyphicon glyphicon-globe"></i></span>
                                             <select name="country" class="form-control selectpicker">
                                                 <option value=" ">Please select your country</option>
                                                 <option>Canada</option>
@@ -123,6 +127,9 @@
                                             <button type="button" id="submit-btn"
                                                 class="btn btn-contact-page btn-lg">Submit</button>
                                         </div>
+                                    </div>
+                                    <div class="col-md-12 text-center text-success" id="alertMessage">
+                                        <strong style="font-size: 20px;">Success!</strong> We recieved your message.We Will get back to you soon!
                                     </div>
                                 </fieldset>
                             </form>

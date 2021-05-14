@@ -106,9 +106,21 @@ span.ui-accordion-header-icon {
 
 .gmap-canvas {
     display: flex;
-    border: 1px solid black;
 }
 
 .input-group {
     border: 1px solid #485563;
+}
+
+.menu-left-width {
+    width: 25%;
+}
+
+.ui-menu .ui-menu-item {
+    border-bottom: 1px solid #485563;
+    padding: 10px;
+}
+
+.ui-menu .ui-menu-item:last-child {
+    border-bottom: none;
 }

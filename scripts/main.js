@@ -1,4 +1,5 @@
 $(document).ready(() => {
+    $("#alertMessage").hide();
     console.log('doc is ready');
     $("#tabs").tabs();
     $("#accordion").accordion(
@@ -8,6 +9,7 @@ $(document).ready(() => {
                 "activeHeader": "ui-icon-minus"
             }
         });
+        $( "#menu" ).menu();
     initiateBootstrapvalidator();
     onSubmit();
 });
@@ -90,8 +92,13 @@ function onSubmit() {
         var validator = $('#contact_form').data('bootstrapValidator');
         validator.validate();
         if (validator.isValid()) {
-            console.log(validator.isValid());
+            $("#alertMessage").show().fadeOut(5000);
             resetForm();
         }
     });
+}
+function resetForm() {
+    $('#contact_form').get(0).reset();
+    var validator = $('#contact_form').data('bootstrapValidator');
+    validator.resetForm();
 }
