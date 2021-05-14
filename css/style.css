@@ -101,3 +101,7 @@ span.ui-accordion-header-icon {
     display: flex;
     border: 1px solid black;
 }
+
+.input-group {
+    border: 1px solid #485563;
+}
