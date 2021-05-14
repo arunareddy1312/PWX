@@ -78,26 +78,32 @@ span.ui-accordion-header-icon {
 .blockquote>p:first-child {
     text-transform: uppercase;
 }
-.address-contact-page { 
-    text-align: left;
+
+.address-contact-page {
+    text-align : left;
     font-weight: bold;
-    font-size: 20px;
+    font-size  : 20px;
 }
 
-.input-box-spacing-contact{
-    border: 2px solid black;
+.input-box-spacing-contact {
+    border       : 2px solid black;
     margin-bottom: 35px;
 }
-.name-contact-top-margin{
+
+.name-contact-top-margin {
     margin-top: 35px
 }
-.btn-contact-page{
-    color: #FFFFFF;
+
+.btn-contact-page {
+    color           : #FFFFFF;
     background-color: #485563;
-    margin-bottom: 30px;
+    margin-bottom   : 30px;
 }
 
-.gmap_canvas {
+.mapouter {
+    border-top: 1px solid #485563;
+}
+
+.gmap-canvas {
     display: flex;
-    border: 1px solid black;
 }
