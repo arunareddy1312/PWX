@@ -8,10 +8,10 @@ body {
 }
 
 .panel.panel-default {
-    border: 1px solid #485563;
+    border: 1px solid ;
 }
 
-.navbar {
+.margin-bottom-0 {
     margin-bottom: 0;
 }
 
@@ -206,4 +206,11 @@ span.ui-accordion-header-icon {
 .image-panel .row>p {
     margin    : 10px;
     text-align: justify;
+}
+
+.our-services{
+    color: #4e5d6c;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 10px;
 }

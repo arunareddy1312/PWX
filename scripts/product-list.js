@@ -58,7 +58,9 @@ function createBootStrapPanel(imageSrc, productName, id) {
         class: 'panel-body',
         html: $('<img>', {
             'src': imageSrc,
-        }).width(300).height(200)
+            width: '100%',
+            height: '200px'
+        })
     }).css('max-height', '250px')).append($('<div>', {
         class: 'panel-footer'
     }).append($("<a>", {
