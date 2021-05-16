@@ -8,7 +8,7 @@ body {
 }
 
 .panel.panel-default {
-    border: 1px solid ;
+    border: 1px solid;
 }
 
 .margin-bottom-0 {
@@ -186,8 +186,8 @@ span.ui-accordion-header-icon {
 }
 
 .image-height {
-    max-height: 500px;
-    overflow  : hidden;
+    max-height   : 500px;
+    overflow     : hidden;
     margin-bottom: 20px;
 }
 
@@ -196,7 +196,8 @@ span.ui-accordion-header-icon {
 }
 
 .image-panel .row>img {
-    width: 100%;
+    width     : 100%;
+    max-height: 250px;
 }
 
 .image-panel .row>.blockquote {
@@ -208,9 +209,9 @@ span.ui-accordion-header-icon {
     text-align: justify;
 }
 
-.our-services{
-    color: #4e5d6c;
-    text-align: center;
+.our-services {
+    color         : #4e5d6c;
+    text-align    : center;
     text-transform: uppercase;
-    margin: 10px;
+    margin        : 10px;
 }
