@@ -1,49 +1,402 @@
 [
     {
-        "id": "609e8b886262467aafdc3088",
+        "id": "1",
         "isActive": true,
-        "cost": "$2,247.85",
-        "picture": "http://placehold.it/32x32",
-        "availableQuantity": 38,
-        "category": "supplies",
-        "subCategory": "suppliesCat23",
-        "company": "MAXEMIA",
-        "productName": "MAXEMIA supplies",
-        "description": "Aliqua ipsum magna labore exercitation in fugiat cupidatat. Proident et veniam Lorem in aute non aute. Dolore qui nostrud mollit anim duis consequat dolor officia consequat. Mollit culpa eiusmod ad ad. Ad culpa aliqua et magna nulla mollit nisi officia minim cupidatat laborum. Magna nulla ipsum ex irure dolore.",
-        "phone": "+1 (881) 510-3686",
-        "registered": "Thu Sep 26 2019 01:43:47 GMT+0000 (UTC)",
+        "cost": "$5,995.00",
+        "picture": "images/Darkroom/afp.jpg",
+        "category": "equipments",
+        "subCategory": "Darkroom Equipment",
+        "company": "PROTEXC",
+        "productName": "OPTIMAX Table Top Film Processor",
+        "catchPharse": "RUGGED & RELIABLE TABLE-TOP AUTOMATIC X-RAY FILM",
+        "tagLine": "The Standard of Excellence in 90 Second Processing !",
+        "catchPharseContent": "he OPTIMAX is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
         "specification": [
             {
-                "specType": "adipisicing",
-                "description": "Aute enim dolore fugiat irure sit."
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
             },
             {
-                "specType": "non",
-                "description": "Sunt non qui aute exercitation dolore nostrud ullamco laboris duis reprehenderit sint et voluptate aliquip."
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
             },
             {
-                "specType": "magna",
-                "description": "Labore labore aliquip nostrud aute Lorem exercitation qui proident tempor nulla amet in irure veniam."
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
             },
             {
-                "specType": "enim",
-                "description": "Elit dolore consequat elit non ea sint."
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
             },
             {
-                "specType": "sint",
-                "description": "Velit mollit irure sint quis excepteur consectetur culpa irure adipisicing qui cupidatat."
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
             },
             {
-                "specType": "cillum",
-                "description": "Mollit irure ad aliquip minim ut cupidatat sint ex duis aliquip quis."
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
             },
             {
-                "specType": "officia",
-                "description": "Anim ullamco ullamco et veniam mollit."
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
             }
         ],
         "featuresAndBenefits": [
-            "Nostrud non ad nulla aute deserunt velit do nisi ipsum culpa adipisicing tempor.",
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
+        ],
+        "standardEquipment": [
+            "Comes complete and ready with all components for tabletop processing",
+            "Levelling legs for uneven surfaces",
+            "Spare parts kit",
+            " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+            "Floating lid for developer tank",
+            "Water supply hose",
+            "Tubing and hardware",
+            "Installation, Operating and Parts Manual"
+        ]
+    },
+    {
+        "id": "2",
+        "isActive": true,
+        "cost": "$996.58",
+        "picture": "images/Darkroom/CM.jpg",
+        "category": "equipments",
+        "subCategory": "Darkroom Equipment",
+        "company": "WHITE MOUNTAIN",
+        "productName": "IS-199 Chemical Mixers",
+        "catchPharse": "A versatile Chemical Mixer ",
+        "tagLine": "With X-ray,Graphic Arts,Photo Product",
+        "catchPharseContent": "The Specific Gravity Mixing System allows the user to start a mix anytime. The mixer responds to the addition of concentrated chemicals and adds the correct amount of water automatically. All Electronic Components have been chosen for dependability. Straight-forward circuit designs eliminate the need for circuit boards thereby increasing reliability. The Low Level Warning System indicates that solution level is 2.0 gallons or less. The warning system resets automatically when the user begins a 5 or 10 gallon mix.",
+        "specification": [
+            {
+                "specType": "Power",
+                "description": "120 Volts AC."
+            },
+            {
+                "specType": "Dimensions",
+                "description": "Standard Model - 30 inches H x 24inches W x12 D. Space Saver - 21inches H x 24 inchesW x 12 inchesD."
+            },
+            {
+                "specType": "Capacity",
+                "description": "12.5 gallons, Developer & Fixer. Space Saver - 7.5 gallons, Developer & Fixer"
+            },
+            {
+                "specType": "Operation Range",
+                "description": " 8-125 psi Water Pressure."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Specific Gravity Mixing System - The ultimate in convenience and accuracy.",
+            "Rugged field tested components assure reliability.",
+            "24 Volt Operation - Uses no circuit boards.",
+            "Audible and visible low level warning system.",
+            "Easy-to-service design.",
+            "UL/CSA approved external power supply"
+        ],
+        "standardEquipment": [
+            "X-Ray",
+            "Graphic Arts",
+            "Photo Products",
+            "One year warranty on all parts"
+        ]
+    },
+    {
+        "id": "3",
+        "isActive": true,
+        "cost": "$291.67",
+        "picture": "images/Darkroom/fp.jpg",
+        "category": "equipments",
+        "subCategory": "Darkroom Equipment",
+        "company": "RT",
+        "productName": "X-Port X-Ray Film Portfolio",
+        "catchPharse": "The X-Port® All-In-One Rolling X-Ray Case",
+        "tagLine": "An effective solution to your X-Ray handling problems!",
+        "catchPharseContent": "The X-Port X-Ray Portfolio is designed exclusively for transporting radiology films and patient files. The zipperless portfolio allows films to be handled easily and efficiently while protecting them from the rain and snow. The X-Port saves time in loading and unloading film, saves space in storage, and saves money by lasting longer than conventional zippered portfolios and conference cases. Protect films from loss and damage, Holds up to 20 cases, Quick and easy to load and unload, Saves money by lasting longer and more!",
+        "specification": [
+            {
+                "specType": "Size",
+                "description": "22 inches x 16 inches x 6 inches (inside)"
+            },
+            {
+                "specType": "Colors",
+                "description": " Black, Red, Yellow, Green, Orange & Light Pink"
+            },
+            {
+                "specType": "Material",
+                "description": "Cordura Nylon and 600 Denier Polyester."
+            },
+            {
+                "specType": "SHIPS AT",
+                "description": "22 inches x 16 inches x 6 inches"
+            }
+        ],
+        "featuresAndBenefits": [
+            "Built-in rollerblade wheels",
+            "Telescoping handle with one-handed operation",
+            "Compact design fits easily in any vehicle",
+            "Access your films easily from the top of the case",
+            "Dual zippers can be padlocked for patient record security--comes with mini-combination lock",
+            "Large clear vinyl window for courier label or routing slip.",
+            "Outside pocket for reports, inter-office mail, and smaller films",
+            "Dual side handles for ergonomic two-handed lifting",
+            "Large enough to fit full-size radiology films, oversized film carriers, and film cassettes",
+            "Large capacity interior holds up to 30 studies"
+        ],
+        "standardEquipment": [
+            "A comfortable leather handgrip & an adjustable shoulder strap.",
+            "Business card holder for flexible labeling.",
+            "Two full-length elasticized inside pockets for organizing film jackets, reports, and inter-office mail.",
+            "Is constructed of Dupont Cordura with lightweight stiffeners for carrying comfort, durability, and attractive, professional appearance.",
+            "Holds all size films and transport jackets. (Even over sized plastic film carriers."
+        ]
+    },
+    {
+        "id": "4",
+        "isActive": true,
+        "cost": "$906.77",
+        "picture": "images/Darkroom/fd.jpg",
+        "category": "equipments",
+        "subCategory": "Darkroom Equipment",
+        "company": "RT",
+        "productName": "Wolf Radiology Film Duplicator",
+        "catchPharse": "Wolf Film Duplicators",
+        "tagLine": "An excellent option to consider is the Film Duplicator.",
+        "catchPharseContent": "Wolf manufactures three sizes of x-ray duplicators, with screen sizes of 14 x 17, 10 x 12 and 6 x 12 respectively. Constructed of steel finished in durable baked enamel, our duplicators can be used with any available duplicating film, (which is not the same as regular x-ray film.) To operate the duplicators, (in a dark room) simply place the film to be duplicated on the plexiglass screen with a sheet of duplicating film on top, close the cover, set the exposure time and push the button. The red light will signal you when exposure is complete. The 14 x 17 surface of the #21524 accommodates all x-rays up to 14 x 17. The 10 x 12 surface of the #21522 is perfect for duplicating mammographs and podiatric radiographs, and the 6 x 12 #21520 duplicates any size up to 6 x 12.",
+        "specification": [
+            {
+                "specType": "Size Small",
+                "description": "6 inches x 12 inches"
+            },
+            {
+                "specType": "Size Medium",
+                "description": "12 inches x 10 inches"
+            },
+            {
+                "specType": "Size Large",
+                "description": "14 inches x 17 inches"
+            },
+            {
+                "specType": "Color",
+                "description": "White"
+            }
+        ],
+        "featuresAndBenefits": [
+            "Constructed in durable baked enamel, the duplicators can be used with any available duplicating film. ",
+            "Develop your duplicating film"
+            
+        ],
+        "standardEquipment": [
+            "Built-in rollerblade wheels",
+            "Telescoping handle with one-handed operation",
+            "Compact design fits easily in any vehicle",
+            "Access your films easily from the top of the case",
+            "Dual zippers can be padlocked for patient record security--comes with mini-combination lock",
+            "Large clear vinyl window for courier label or routing slip.",
+            "Outside pocket for reports, inter-office mail, and smaller films",
+            "Dual side handles for ergonomic two-handed lifting",
+            "Large enough to fit full-size radiology films, oversized film carriers, and film cassettes",
+            "Large capacity interior holds up to 30 studies"
+        ]
+    },
+    {
+        "id": "5",
+        "isActive": true,
+        "cost": "$339.38",
+        "picture": "images/Darkroom/ip.jpg",
+        "category": "equipments",
+        "subCategory": "Darkroom Equipment",
+        "company": "RT",
+        "productName": "Wolf Film Identification Printers",
+        "catchPharse": "Wolf Film Identification Printers",
+        "tagLine": "An excellent option to consider is the Film Identification.",
+        "catchPharseContent": "ID Printers allow you to quickly and easily expose patient information onto your extraoral film prior to processing. The Wolf Auto Printer has an adjustable exposure timer. Set the timer, insert ID card and press the exposure plate.Just insert the film and ID card, hold down the exposure plate, and release. Compatible with Kodak and Wolf ID cards.",
+        "specification": [
+            {
+                "specType": "Size Small",
+                "description": "6 inches x 12 inches"
+            },
+            {
+                "specType": "Size Medium",
+                "description": "12 inches x 10 inches"
+            },
+            {
+                "specType": "Size Large",
+                "description": "14 inches x 17 inches"
+            },
+            {
+                "specType": "Color",
+                "description": "White"
+            }
+        ],
+        "featuresAndBenefits": [
+            "X-Ray",
+            "Graphic Arts",
+            "Photo Products",
+            "One year warranty on all parts"
+            
+        ],
+        "standardEquipment": [
+            "A comfortable leather handgrip & an adjustable shoulder strap.",
+            "Business card holder for flexible labeling.",
+            "Two full-length elasticized inside pockets for organizing film jackets, reports, and inter-office mail.",
+            "Is constructed of Dupont Cordura with lightweight stiffeners for carrying comfort, durability, and attractive, professional appearance.",
+            "Holds all size films and transport jackets. (Even over sized plastic film carriers."
+        ]
+    },
+    {
+        "id": "6",
+        "isActive": true,
+        "cost": "$144.46",
+        "picture": "images/Darkroom/sl.jpg",
+        "category": "equipments",
+        "subCategory": "Darkroom Equipment",
+        "company": "RT",
+        "productName": "Swivel Safelight",
+        "catchPharse": "Swivel Safelight",
+        "tagLine": " Perfect for direct spotlighting!.",
+        "catchPharseContent": "Perfect for direct spotlighting, this wall mounted unit swivels to any position. Easy to install via 2 keyholes, the Swivel Safelight includes a GBX type filter, 7 watt light bulb, and a 6 foot cord with a three prong plug. Specifications: 7 H x 6 W. Face is 5 in Diameter. Approximate shipping weight 5 lbs.Also available with an optional SENSOR that turns the safelight on automatically when the regular light is shut off (the unit can still be shut off permanently with the on/off switch).",
+        "specification": [
+            {
+                "specType": "Darkroom Flashlights",
+                "description": "21615 takes two double A batteries.21616 takes two 'C' batteries."
+            },
+            {
+                "specType": "Fluorescent Safelight",
+                "description": "The Fluorescent tube safelight is perfect for all darkrooms because it is available with either a green or red filter."
+            },
+            {
+                "specType": "Circular Safelight",
+                "description": "Our economy model screws into any existing outlet"
+            },
+            {
+                "specType": "Angular Safelight",
+                "description": "The Angular Safelight is ideal where a direct light is wanted"
+            }
+        ],
+        "featuresAndBenefits": [
+            "Angular Safelight",
+            "Swivel Safelight",
+            "Circular Safelight",
+            "Fluorescent Safelight"
+            
+        ],
+        "standardEquipment": [
+            "A comfortable leather handgrip & an adjustable shoulder strap.",
+            "Business card holder for flexible labeling.",
+            "Two full-length elasticized inside pockets for organizing film jackets, reports, and inter-office mail.",
+            "Is constructed of Dupont Cordura with lightweight stiffeners for carrying comfort, durability, and attractive, professional appearance.",
+            "Holds all size films and transport jackets. (Even over sized plastic film carriers."
+        ]
+    },
+    {
+        "id": "7",
+        "isActive": true,
+        "cost": "$295.00",
+        "picture": "images/Darkroom/lds.jpg",
+        "category": "equipments",
+        "subCategory": "Darkroom Equipment",
+        "company": "RT",
+        "productName": "Lighted Door Sign",
+        "catchPharse": "Phillips Safety LED X-Ray In Use Lighted Door Sign.",
+        "tagLine": "This premium, one-sided LED illuminated sign features a steady/flashing option.",
+        "catchPharseContent": "Manufactured of steel and lit by two 15-watt energy efficient tubular bulbs, the 12 L x 7 H x 2 D box has your message on both sides for hanging projected over the door (or against the wall). The unit is finished with a white polyester powder finish and comes with pigtails for direct wiring.Ships ready to be hard-wired in by a qualified electrician.",
+        "specification": [
+            {
+                "specType": "Size Small",
+                "description": "6 inches x 12 inches"
+            },
+            {
+                "specType": "Size Medium",
+                "description": "12 inches x 10 inches"
+            },
+            {
+                "specType": "Size Large",
+                "description": "14 inches x 17 inches"
+            },
+            {
+                "specType": "Color",
+                "description": "White"
+            }
+        ],
+        "featuresAndBenefits": [
+            "X-Ray",
+            "Graphic Arts",
+            "Photo Products",
+            "One year warranty on all parts"
+            
+        ],
+        "standardEquipment": [
+            "A comfortable leather handgrip & an adjustable shoulder strap.",
+            "Business card holder for flexible labeling.",
+            "Two full-length elasticized inside pockets for organizing film jackets, reports, and inter-office mail.",
+            "Is constructed of Dupont Cordura with lightweight stiffeners for carrying comfort, durability, and attractive, professional appearance.",
+            "Holds all size films and transport jackets. (Even over sized plastic film carriers."
+        ]
+    },
+    {
+        "id": "8",
+        "isActive": true,
+        "cost": "$4,250",
+        "picture": "images/Darkroom/srs.jpg",
+        "category": "equipments",
+        "subCategory": "Darkroom Equipment",
+        "company": "PROTEXC",
+        "productName": "Automatic Recovery Systems",
+        "catchPharse": "Electrolytic silver recovery units ",
+        "tagLine": "Perfect for X-ray, graphic arts, microfilm, and black and white processing!",
+        "catchPharseContent": "ARU-1200 and ARU-2100 models feature state of the art digital microprocessor controls, digital display, and keypad for easy calibration and information storage. These models automatically control and optimize plating current as the silver concentration varies in the fixer solution.",
+        "specification": [
+            {
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+            },
+            {
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
+            },
+            {
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
+            },
+            {
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+            },
+            {
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Lightweight, yet rugged tabletop processor",
             "Laboris sit nisi officia adipisicing.",
             "Irure ullamco ut nostrud elit sunt.",
             "Proident consequat ullamco nisi in ut ea excepteur.",
@@ -58,607 +411,198 @@
         ]
     },
     {
-        "id": "609e8b880e23c3d4ef69339b",
+        "id": "9",
         "isActive": true,
-        "cost": "$1,132.83",
-        "picture": "http://placehold.it/32x32",
-        "availableQuantity": 22,
-        "category": "equipment",
-        "subCategory": "equipmentCat20",
-        "company": "FLEXIGEN",
-        "productName": "FLEXIGEN equipment",
-        "description": "Amet fugiat voluptate nulla excepteur irure ex. Aliquip culpa laboris do qui ea reprehenderit enim. Do nisi anim sunt sunt cillum nulla. Culpa cillum sunt magna consequat est deserunt occaecat ad eu enim eu officia. Adipisicing ipsum labore aute commodo dolore duis. Esse et velit et dolore ex minim id duis nulla.",
-        "phone": "+1 (889) 599-2571",
-        "registered": "Mon Jun 11 2018 08:19:13 GMT+0000 (UTC)",
+        "cost": "$58.00",
+        "picture": "images/Darkroom/td.jpg",
+        "category": "equipments",
+        "subCategory": "Darkroom Equipment",
+        "company": "PROTEXC",
+        "productName": "Darkroom Thermometers",
+        "catchPharse": "Dial Thermometer",
+        "tagLine": "Calibrated from 0-140°F, made of stainless steel, and comes with a cup for floating in the tank.",
+        "catchPharseContent": "Runs on a standard watch battery (included) and comes with a lifetime warranty. Registers temperatures from -40° to 300°F. Just place it in the solution and press the button. The temperature is digitally displayed on a LCD.",
         "specification": [
             {
-                "specType": "ullamco",
-                "description": "Aliqua ullamco eu dolore quis eiusmod dolor tempor eu occaecat ut dolore."
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
             },
             {
-                "specType": "officia",
-                "description": "Esse quis commodo amet aliquip velit incididunt minim officia exercitation adipisicing exercitation eiusmod qui."
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
             },
             {
-                "specType": "officia",
-                "description": "Pariatur tempor tempor culpa irure sit aute."
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
             },
             {
-                "specType": "eu",
-                "description": "Velit ullamco enim sint est magna sit esse quis ad."
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
             },
             {
-                "specType": "ad",
-                "description": "Elit esse dolor laboris nisi."
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
             }
         ],
         "featuresAndBenefits": [
-            "Excepteur ad mollit exercitation do pariatur excepteur.",
-            "Nostrud culpa reprehenderit aute dolor officia reprehenderit id elit sit laboris aliqua cupidatat.",
-            "Excepteur elit pariatur dolore enim ullamco cillum velit veniam.",
-            "Officia aute in deserunt enim ipsum ut Lorem aute laboris officia aute laboris.",
-            "Cupidatat nisi amet fugiat ad do elit eiusmod fugiat."
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
         ],
         "standardEquipment": [
-            "Aliqua consequat eu in cupidatat aliquip culpa.",
-            "Nostrud nulla minim ex irure do cillum deserunt.",
-            "Eu aute proident laborum deserunt eu eiusmod aliquip ipsum veniam occaecat.",
-            "Non laboris nulla exercitation irure.",
-            "Nisi nisi eiusmod sint est elit do ut laboris."
+            "Elit est laboris consectetur elit incididunt eiusmod.",
+            "Non consectetur id enim ad.",
+            "Lorem exercitation deserunt eiusmod tempor in.",
+            "Id est excepteur amet anim dolore.",
+            "Dolor cillum Lorem enim excepteur officia ullamco pariatur adipisicing nostrud ipsum pariatur."
         ]
     },
     {
-        "id": "609e8b889475f8bdf4446cf7",
-        "isActive": false,
-        "cost": "$1,940.78",
-        "picture": "http://placehold.it/32x32",
-        "availableQuantity": 26,
-        "category": "supplies",
-        "subCategory": "suppliesCat20",
-        "company": "ENAUT",
-        "productName": "ENAUT supplies",
-        "description": "Est aliquip esse qui dolore culpa voluptate pariatur officia adipisicing culpa elit sunt. Nostrud ex adipisicing cupidatat aliqua velit amet sint esse proident veniam minim ut fugiat non. Aliqua nostrud fugiat adipisicing eu. Pariatur veniam incididunt sunt voluptate esse deserunt non qui esse voluptate ad. Est adipisicing labore veniam enim voluptate minim fugiat qui id. Ullamco proident quis voluptate voluptate nulla.",
-        "phone": "+1 (872) 515-2257",
-        "registered": "Tue Nov 11 2014 10:20:43 GMT+0000 (UTC)",
-        "specification": [
-            {
-                "specType": "consectetur",
-                "description": "Elit id ad ullamco enim consequat qui ea Lorem quis labore excepteur."
-            },
-            {
-                "specType": "ex",
-                "description": "Do aute consectetur aliquip officia aute."
-            },
-            {
-                "specType": "consectetur",
-                "description": "Quis adipisicing laboris consectetur cupidatat veniam officia."
-            },
-            {
-                "specType": "pariatur",
-                "description": "Nostrud cupidatat nisi dolore ullamco reprehenderit consectetur excepteur id commodo eu."
-            },
-            {
-                "specType": "mollit",
-                "description": "Aute consequat veniam qui duis."
-            },
-            {
-                "specType": "ea",
-                "description": "Consectetur aliqua ullamco laboris proident occaecat."
-            },
-            {
-                "specType": "voluptate",
-                "description": "Aliqua sunt do occaecat consectetur Lorem duis ullamco et laborum pariatur ea velit sint."
-            },
-            {
-                "specType": "veniam",
-                "description": "Labore culpa do elit duis pariatur nostrud voluptate duis nulla nostrud in non enim sit."
-            },
-            {
-                "specType": "aliquip",
-                "description": "Dolore ea magna nisi dolore tempor elit quis eu."
-            },
-            {
-                "specType": "ea",
-                "description": "Elit qui laboris ea sit proident nostrud minim quis."
-            }
-        ],
-        "featuresAndBenefits": [
-            "Anim aliqua nostrud sunt consectetur cupidatat aliquip nisi proident commodo sunt eu.",
-            "Nostrud aliqua sint consectetur et elit esse.",
-            "Cillum reprehenderit ipsum esse ad excepteur esse occaecat amet.",
-            "Irure exercitation in ea magna enim consectetur.",
-            "Consectetur elit elit nisi cillum nulla excepteur nisi cupidatat anim et elit."
-        ],
-        "standardEquipment": [
-            "Minim laborum mollit ad enim duis sunt eu sint ipsum consequat labore occaecat.",
-            "Dolor nulla commodo ullamco excepteur fugiat ullamco.",
-            "Adipisicing ullamco elit eiusmod dolore veniam proident dolor do enim aute fugiat laborum ex.",
-            "In fugiat adipisicing occaecat cillum non consequat amet esse officia duis consectetur.",
-            "Elit veniam consequat consequat voluptate voluptate enim in officia aliqua minim eu do pariatur occaecat."
-        ]
-    },
-    {
-        "id": "609e8b88551833d8727d9dee",
+        "id": "9",
         "isActive": true,
-        "cost": "$1,177.30",
-        "picture": "http://placehold.it/32x32",
-        "availableQuantity": 25,
-        "category": "accessory",
-        "subCategory": "accessoryCat22",
-        "company": "OHMNET",
-        "productName": "OHMNET accessory",
-        "description": "Eiusmod ad dolore fugiat sint tempor. Laborum veniam pariatur qui Lorem ex laboris nisi eiusmod dolor magna mollit id laborum commodo. Excepteur voluptate consectetur fugiat magna aliquip adipisicing deserunt reprehenderit dolore anim labore sunt dolore enim. Do eu ipsum eiusmod laborum nulla. Esse fugiat labore ad anim mollit exercitation amet quis non veniam labore officia.",
-        "phone": "+1 (877) 406-2263",
-        "registered": "Wed Apr 22 2015 01:28:06 GMT+0000 (UTC)",
+        "cost": "$289.69",
+        "picture": "images/Darkroom/dt.jpg",
+        "category": "equipments",
+        "subCategory": "Darkroom Equipment",
+        "company": "PROTEXC",
+        "productName": "Darkroom Timer",
+        "catchPharse": "Big Timer",
+        "tagLine": "Perfect for X-ray, dark room lighting!",
+        "catchPharseContent": "Wolf's large faced analog timer features a giant 8 diameter dial that gives you minute and second timing from 1 second to 60 minutes. It automatically shuts-off a duplicator or other electrical appliances, and has a clear buzzer signal.",
         "specification": [
             {
-                "specType": "aliqua",
-                "description": "Nostrud sunt fugiat veniam adipisicing sit enim laborum ea sint pariatur nisi deserunt excepteur occaecat."
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
             },
             {
-                "specType": "ex",
-                "description": "Esse nisi minim fugiat irure veniam incididunt exercitation nulla nisi pariatur."
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
             },
             {
-                "specType": "aliquip",
-                "description": "Eu cillum anim cillum aute ad exercitation fugiat laboris eu pariatur adipisicing cillum ut ea."
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
             },
             {
-                "specType": "sit",
-                "description": "Et do velit fugiat voluptate velit nisi consectetur elit tempor nisi cupidatat labore veniam nisi."
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
             },
             {
-                "specType": "irure",
-                "description": "Tempor veniam nisi ex sunt est consectetur cupidatat ut magna."
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
             },
             {
-                "specType": "officia",
-                "description": "Ex do est non nostrud mollit fugiat do veniam id nulla adipisicing qui voluptate."
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
             },
             {
-                "specType": "veniam",
-                "description": "Amet consequat laboris est magna consequat ex dolore aliqua ullamco aliqua tempor."
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
             },
             {
-                "specType": "incididunt",
-                "description": "Esse officia sint fugiat mollit voluptate consequat incididunt minim dolor est."
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
             },
             {
-                "specType": "nisi",
-                "description": "Officia pariatur adipisicing non sint adipisicing officia nulla ad."
-            },
-            {
-                "specType": "ex",
-                "description": "Sint ipsum non esse laborum do sint nostrud tempor deserunt anim ullamco."
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
             }
         ],
         "featuresAndBenefits": [
-            "Est ullamco Lorem ex reprehenderit commodo ea adipisicing ullamco.",
-            "Elit irure enim tempor commodo.",
-            "Nostrud anim sit veniam non dolor ut esse incididunt aute.",
-            "Minim officia elit sit ut anim.",
-            "Aute nulla laboris proident aliquip ullamco proident exercitation deserunt ullamco quis do esse fugiat duis."
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
         ],
         "standardEquipment": [
-            "Tempor mollit voluptate pariatur officia.",
-            "Velit proident reprehenderit sint adipisicing occaecat elit voluptate ea anim.",
-            "Ullamco deserunt quis labore nulla est fugiat eu cupidatat mollit dolore.",
-            "Ipsum laborum incididunt dolore cillum ad duis ex pariatur dolore dolore nulla.",
-            "Velit culpa officia labore nisi in magna laborum aute pariatur."
+            "Elit est laboris consectetur elit incididunt eiusmod.",
+            "Non consectetur id enim ad.",
+            "Lorem exercitation deserunt eiusmod tempor in.",
+            "Id est excepteur amet anim dolore.",
+            "Dolor cillum Lorem enim excepteur officia ullamco pariatur adipisicing nostrud ipsum pariatur."
         ]
     },
     {
-        "id": "609e8b8887242a0aceaf9a6d",
-        "isActive": false,
-        "cost": "$3,909.03",
-        "picture": "http://placehold.it/32x32",
-        "availableQuantity": 40,
-        "category": "supplies",
-        "subCategory": "suppliesCat32",
-        "company": "HOTCAKES",
-        "productName": "HOTCAKES supplies",
-        "description": "In labore dolore fugiat ea fugiat mollit fugiat voluptate ea velit pariatur commodo veniam amet. Nisi deserunt laborum deserunt ullamco ex duis eiusmod minim labore. Aute consectetur officia non amet eiusmod enim eiusmod commodo anim aute id do occaecat anim. Lorem duis exercitation sit occaecat officia. Cupidatat est mollit laborum adipisicing eiusmod nisi occaecat eu proident consequat deserunt laborum. In do ex adipisicing sunt Lorem minim aliquip.",
-        "phone": "+1 (975) 546-3586",
-        "registered": "Tue Oct 17 2017 14:41:10 GMT+0000 (UTC)",
-        "specification": [
-            {
-                "specType": "et",
-                "description": "Qui enim non nisi culpa est velit amet nostrud aliquip."
-            },
-            {
-                "specType": "ipsum",
-                "description": "Proident pariatur deserunt amet quis duis aute cupidatat mollit proident."
-            },
-            {
-                "specType": "cupidatat",
-                "description": "Ut laborum qui fugiat tempor nostrud adipisicing incididunt amet adipisicing magna aute laboris."
-            },
-            {
-                "specType": "dolore",
-                "description": "Sunt ullamco ipsum voluptate occaecat ut."
-            },
-            {
-                "specType": "do",
-                "description": "Duis officia labore eiusmod consequat dolor nisi sit."
-            },
-            {
-                "specType": "dolor",
-                "description": "Id laboris cupidatat commodo officia eiusmod ipsum."
-            },
-            {
-                "specType": "velit",
-                "description": "Ullamco nulla consectetur aliquip consequat est occaecat cillum irure quis ex culpa irure."
-            },
-            {
-                "specType": "voluptate",
-                "description": "Laboris cupidatat ullamco ea reprehenderit Lorem labore aliquip laborum cupidatat laboris minim duis nulla cupidatat."
-            },
-            {
-                "specType": "commodo",
-                "description": "Minim consectetur exercitation ad ullamco ullamco labore aliquip amet laboris ipsum proident."
-            },
-            {
-                "specType": "commodo",
-                "description": "Eiusmod consectetur labore excepteur commodo occaecat id nisi culpa deserunt nostrud."
-            }
-        ],
-        "featuresAndBenefits": [
-            "Sint id officia aute aliquip aliquip velit Lorem magna commodo.",
-            "Excepteur non velit duis eiusmod ex non anim.",
-            "Incididunt dolor do qui incididunt quis fugiat anim est ea nisi.",
-            "Dolor do ea do id minim.",
-            "In adipisicing consectetur Lorem qui deserunt."
-        ],
-        "standardEquipment": [
-            "Laborum incididunt consequat deserunt eiusmod laborum laborum ad do ullamco.",
-            "Sint ad proident amet non ad consectetur ipsum aute labore.",
-            "Commodo minim pariatur proident veniam ea Lorem aliqua et cupidatat amet excepteur quis sunt.",
-            "Cupidatat esse reprehenderit et aliqua consequat eiusmod anim id qui commodo nulla.",
-            "Ullamco consectetur esse officia id minim velit elit consectetur id labore et."
-        ]
-    },
-    {
-        "id": "609e8b8881bcbf6ce63d92f8",
-        "isActive": false,
-        "cost": "$3,709.77",
-        "picture": "http://placehold.it/32x32",
-        "availableQuantity": 20,
-        "category": "accessory",
-        "subCategory": "accessoryCat34",
-        "company": "SENTIA",
-        "productName": "SENTIA accessory",
-        "description": "Labore consectetur aliquip labore ex do ad pariatur dolore laboris excepteur proident. Consectetur amet elit cupidatat ad anim Lorem sunt enim dolore occaecat laboris eu. Esse tempor consectetur incididunt sint. Laboris sint sunt deserunt veniam excepteur enim cupidatat laborum culpa esse non dolore cupidatat commodo. Duis nulla sit nisi quis ipsum laborum cillum in fugiat proident enim.",
-        "phone": "+1 (913) 488-3354",
-        "registered": "Fri Apr 07 2017 23:33:23 GMT+0000 (UTC)",
-        "specification": [
-            {
-                "specType": "qui",
-                "description": "In nostrud cupidatat laboris officia laborum non."
-            },
-            {
-                "specType": "laboris",
-                "description": "Ad id tempor Lorem sint voluptate occaecat velit consequat occaecat."
-            },
-            {
-                "specType": "culpa",
-                "description": "Ullamco dolor aliqua incididunt do nostrud nostrud ullamco deserunt."
-            },
-            {
-                "specType": "id",
-                "description": "Commodo dolor aliqua consequat magna nulla."
-            },
-            {
-                "specType": "commodo",
-                "description": "Ad deserunt mollit quis labore fugiat elit Lorem qui fugiat irure dolore labore."
-            },
-            {
-                "specType": "in",
-                "description": "Cupidatat ea ullamco aliquip dolore aliqua sit amet proident."
-            },
-            {
-                "specType": "do",
-                "description": "Laboris velit veniam mollit eu consequat ex laborum do incididunt in."
-            },
-            {
-                "specType": "aliqua",
-                "description": "Dolore consectetur mollit eu mollit esse consectetur voluptate reprehenderit laboris."
-            }
-        ],
-        "featuresAndBenefits": [
-            "Proident aute sint duis in nostrud labore incididunt enim magna ea.",
-            "Dolore aliquip nisi laborum Lorem ea exercitation dolore est.",
-            "Aute ea excepteur mollit velit labore voluptate Lorem eu tempor.",
-            "Aliqua aliqua esse incididunt cupidatat aute commodo excepteur do officia pariatur excepteur dolore.",
-            "Aute aliquip aliquip eu ullamco anim magna amet cupidatat."
-        ],
-        "standardEquipment": [
-            "Eiusmod ullamco exercitation veniam aliquip aute et.",
-            "Tempor cupidatat sint quis adipisicing voluptate velit veniam voluptate nulla.",
-            "Aliqua eu cillum proident non elit id aliquip laboris.",
-            "Sit et aute deserunt labore esse.",
-            "Officia do ex laboris fugiat minim ea nostrud."
-        ]
-    },
-    {
-        "id": "609e8b8818e912f1672858d2",
-        "isActive": false,
-        "cost": "$3,994.98",
-        "picture": "http://placehold.it/32x32",
-        "availableQuantity": 33,
-        "category": "part",
-        "subCategory": "partCat25",
-        "company": "JOVIOLD",
-        "productName": "JOVIOLD part",
-        "description": "Laborum nostrud eiusmod occaecat duis sit. Exercitation ex minim quis duis tempor velit laboris occaecat do. Dolor excepteur incididunt ipsum est id adipisicing enim sint eu do. Nisi sunt elit irure ad esse nostrud veniam laboris laboris.",
-        "phone": "+1 (848) 454-2944",
-        "registered": "Tue Feb 12 2019 10:07:27 GMT+0000 (UTC)",
-        "specification": [
-            {
-                "specType": "nulla",
-                "description": "Dolor labore elit commodo minim duis amet mollit adipisicing incididunt."
-            },
-            {
-                "specType": "fugiat",
-                "description": "Minim dolore aliquip veniam mollit et culpa labore tempor eiusmod ea."
-            },
-            {
-                "specType": "amet",
-                "description": "Magna sit in commodo velit reprehenderit."
-            },
-            {
-                "specType": "id",
-                "description": "Aute commodo sint proident ad."
-            },
-            {
-                "specType": "reprehenderit",
-                "description": "Veniam ex anim mollit adipisicing laborum deserunt mollit mollit aliqua aliquip."
-            },
-            {
-                "specType": "amet",
-                "description": "Adipisicing culpa irure dolore nulla aliquip amet magna est esse exercitation aliquip consequat."
-            },
-            {
-                "specType": "magna",
-                "description": "Deserunt aliqua dolor est veniam cupidatat sunt."
-            },
-            {
-                "specType": "nostrud",
-                "description": "Eu incididunt eu eiusmod enim dolore exercitation aute dolor et."
-            }
-        ],
-        "featuresAndBenefits": [
-            "Eiusmod mollit officia excepteur irure aute fugiat irure amet mollit.",
-            "Culpa fugiat occaecat pariatur tempor velit in irure minim ad dolore est.",
-            "Fugiat magna do elit laboris adipisicing.",
-            "Sit est nostrud aliqua ad magna id laborum deserunt.",
-            "Pariatur cillum reprehenderit nisi aliquip aliqua consequat."
-        ],
-        "standardEquipment": [
-            "Quis tempor excepteur velit consequat mollit.",
-            "Sint exercitation aliqua ad eiusmod.",
-            "Consequat laboris est et aliquip laboris voluptate laboris ullamco aute.",
-            "Aliquip aliquip fugiat incididunt ipsum deserunt.",
-            "Exercitation officia proident consequat ipsum nulla amet nostrud cupidatat incididunt tempor voluptate voluptate sit."
-        ]
-    },
-    {
-        "id": "609e8b88a9e96a4e20aacce1",
-        "isActive": false,
-        "cost": "$2,905.58",
-        "picture": "http://placehold.it/32x32",
-        "availableQuantity": 32,
-        "category": "accessory",
-        "subCategory": "accessoryCat21",
-        "company": "COMTOUR",
-        "productName": "COMTOUR accessory",
-        "description": "Aliqua est occaecat Lorem proident ipsum pariatur nulla incididunt adipisicing exercitation et veniam. In cillum nostrud esse excepteur eiusmod consectetur eiusmod. Pariatur eiusmod excepteur sunt fugiat esse qui cupidatat amet dolor et ea aliquip. Ex exercitation sunt sunt fugiat Lorem dolor. Ut eiusmod occaecat non esse cupidatat officia est irure. Ullamco nostrud ea tempor magna deserunt pariatur esse id commodo ipsum. Aute nisi esse sint adipisicing.",
-        "phone": "+1 (943) 581-2369",
-        "registered": "Fri Jun 26 2015 14:57:25 GMT+0000 (UTC)",
-        "specification": [
-            {
-                "specType": "deserunt",
-                "description": "Reprehenderit ut excepteur aliquip nisi."
-            },
-            {
-                "specType": "amet",
-                "description": "Consectetur reprehenderit velit commodo veniam adipisicing Lorem do aute non veniam cupidatat."
-            },
-            {
-                "specType": "ex",
-                "description": "Irure laboris qui ipsum tempor nostrud culpa dolore elit reprehenderit laboris deserunt duis tempor."
-            },
-            {
-                "specType": "dolore",
-                "description": "Non id id consectetur occaecat reprehenderit sit."
-            },
-            {
-                "specType": "deserunt",
-                "description": "Amet deserunt id commodo pariatur anim commodo ipsum laboris cillum adipisicing."
-            },
-            {
-                "specType": "ullamco",
-                "description": "Sunt labore aute dolor esse consectetur non laboris labore."
-            },
-            {
-                "specType": "incididunt",
-                "description": "Ex laboris ipsum ea ex eu."
-            }
-        ],
-        "featuresAndBenefits": [
-            "Consequat esse minim cillum tempor ad aliqua reprehenderit esse nostrud elit minim.",
-            "Sit quis aliqua eiusmod aliqua in cupidatat.",
-            "Ullamco cillum elit est culpa excepteur dolor culpa fugiat sit culpa veniam.",
-            "Tempor nostrud labore commodo qui commodo aliquip aliqua amet esse officia magna ut esse.",
-            "Elit elit nostrud aliquip id."
-        ],
-        "standardEquipment": [
-            "Reprehenderit sit deserunt ea pariatur aute occaecat nulla voluptate in aliquip velit non.",
-            "Amet ad cupidatat ullamco ad reprehenderit ullamco.",
-            "Enim amet veniam adipisicing culpa aliquip consequat veniam laborum enim Lorem sint velit ea exercitation.",
-            "Cillum dolor ex nostrud culpa deserunt deserunt Lorem do.",
-            "Ipsum ut aute velit duis proident."
-        ]
-    },
-    {
-        "id": "609e8b88bbd6f1c61250a909",
+        "id": "10",
         "isActive": true,
-        "cost": "$1,321.96",
-        "picture": "http://placehold.it/32x32",
-        "availableQuantity": 21,
-        "category": "accessory",
-        "subCategory": "accessoryCat21",
-        "company": "WATERBABY",
-        "productName": "WATERBABY accessory",
-        "description": "Magna dolore anim commodo culpa pariatur veniam exercitation do ut anim. Id Lorem qui sit est Lorem aute sunt consequat. Eiusmod sint exercitation cupidatat deserunt ad fugiat consectetur sunt.",
-        "phone": "+1 (825) 413-2990",
-        "registered": "Mon Apr 04 2016 19:05:33 GMT+0000 (UTC)",
+        "cost": "$64,985.00",
+        "picture": "images/Dicom/diom.jpg",
+        "category": "equipments",
+        "subCategory": "Digital/DICOM/PACS",
+        "company": "PROTEXC",
+        "productName": "DIRECT-DIGITAL Portable X-Ray",
+        "catchPharse": "Source-Ray DIRECT-DIGITAL Portable X-Ray Systems",
+        "tagLine": "Store-away laptop computer and tilt-out panel storage cabinet for easy storage and transportation",
+        "catchPharseContent": "The new Source-Ray DR Packages combine one of the great Source-Ray portable x-ray generator systems along with your choice of various flat-panel DR systems from top manufactures creating a one-of-a-kind complete portable digital x-ray imaging system! DR Panels and Software options are show on the price table at the bottom of this page. Click on the links in the price table for more information on each of the offerings.",
         "specification": [
             {
-                "specType": "minim",
-                "description": "Do id reprehenderit enim occaecat commodo dolor Lorem ea anim sint mollit."
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
             },
             {
-                "specType": "ut",
-                "description": "Eu elit consectetur mollit officia anim nulla qui qui enim esse enim nisi proident."
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
             },
             {
-                "specType": "ex",
-                "description": "Eiusmod ad nostrud adipisicing Lorem cupidatat."
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
             },
             {
-                "specType": "Lorem",
-                "description": "Reprehenderit reprehenderit fugiat magna ipsum consequat excepteur aliqua ea et non excepteur fugiat fugiat."
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
             },
             {
-                "specType": "occaecat",
-                "description": "Adipisicing minim exercitation incididunt nisi do commodo."
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
             },
             {
-                "specType": "laboris",
-                "description": "Labore esse aute laborum consequat pariatur ullamco aliquip officia tempor nisi."
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
             },
             {
-                "specType": "non",
-                "description": "Voluptate officia voluptate minim cupidatat quis voluptate duis Lorem ea irure mollit ullamco."
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
             }
         ],
         "featuresAndBenefits": [
-            "Velit non quis nulla nulla eiusmod esse voluptate dolor.",
-            "Ullamco ex amet sit proident eu id aute officia elit dolor Lorem adipisicing.",
-            "Qui ex est amet quis amet fugiat id ad aliqua deserunt.",
-            "Do laborum pariatur et consequat fugiat fugiat cillum officia dolor reprehenderit ex amet commodo.",
-            "Est consequat sunt eu culpa officia."
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
         ],
         "standardEquipment": [
-            "Consequat ad Lorem sint proident.",
-            "Lorem nisi excepteur commodo exercitation labore eiusmod ut.",
-            "Commodo nisi fugiat aliquip velit non eiusmod excepteur ad.",
-            "Pariatur esse deserunt occaecat anim sit nostrud do occaecat labore sunt non fugiat eu nostrud.",
-            "Deserunt aliquip duis sunt id proident Lorem."
-        ]
-    },
-    {
-        "id": "609e8b88906cba930c210d03",
-        "isActive": true,
-        "cost": "$3,836.53",
-        "picture": "http://placehold.it/32x32",
-        "availableQuantity": 26,
-        "category": "supplies",
-        "subCategory": "suppliesCat26",
-        "company": "ACCUSAGE",
-        "productName": "ACCUSAGE supplies",
-        "description": "Cillum voluptate nulla aute sit adipisicing anim irure duis sunt esse tempor ad ullamco nostrud. Proident ad Lorem fugiat consequat cillum ullamco id duis voluptate sit in sit. Dolor consectetur deserunt aute esse in Lorem voluptate reprehenderit magna laboris occaecat. Enim culpa mollit ut velit eu ipsum. Id minim commodo non sit esse magna. Lorem et magna aliquip deserunt aliquip ad cupidatat deserunt pariatur occaecat consequat dolore aute. Esse excepteur aute officia reprehenderit magna aliqua aliqua qui minim excepteur ut.",
-        "phone": "+1 (942) 547-2204",
-        "registered": "Sun Mar 23 2014 19:39:26 GMT+0000 (UTC)",
-        "specification": [
-            {
-                "specType": "exercitation",
-                "description": "Veniam do ea duis laborum dolore deserunt occaecat aliqua sint."
-            },
-            {
-                "specType": "proident",
-                "description": "Labore aliquip sunt proident ipsum non mollit ea mollit."
-            },
-            {
-                "specType": "adipisicing",
-                "description": "Elit aliquip sit eiusmod aliqua exercitation commodo officia nisi officia id eiusmod fugiat commodo veniam."
-            },
-            {
-                "specType": "id",
-                "description": "Non laboris ad enim excepteur nisi ut et culpa."
-            },
-            {
-                "specType": "nulla",
-                "description": "Id id consectetur ut velit aute qui adipisicing tempor voluptate aliqua."
-            }
-        ],
-        "featuresAndBenefits": [
-            "Ad commodo laborum proident anim ullamco.",
-            "Laboris laborum duis ea voluptate excepteur reprehenderit reprehenderit dolore tempor excepteur do voluptate.",
-            "Minim quis irure tempor sunt do ex voluptate.",
-            "Magna est eiusmod dolore nisi aute ullamco anim qui nisi velit deserunt.",
-            "Dolor voluptate eu et reprehenderit nostrud duis id non elit nostrud nostrud."
-        ],
-        "standardEquipment": [
-            "Esse tempor deserunt ut incididunt cupidatat aliquip ex aliquip ad.",
-            "In duis eiusmod magna ipsum cupidatat deserunt.",
-            "Et ut reprehenderit exercitation anim qui.",
-            "Laboris et irure qui est nostrud dolore aliqua aute ea tempor exercitation commodo.",
-            "Ad ea est eu quis sint et sint pariatur veniam fugiat pariatur laboris."
-        ]
-    },
-    {
-        "id": "609e8b88eb87f4434af5412f",
-        "isActive": false,
-        "cost": "$2,220.87",
-        "picture": "http://placehold.it/32x32",
-        "availableQuantity": 40,
-        "category": "accessory",
-        "subCategory": "accessoryCat25",
-        "company": "SYNTAC",
-        "productName": "SYNTAC accessory",
-        "description": "Magna laborum sunt consectetur nostrud voluptate culpa sunt. Sint esse sunt qui Lorem adipisicing proident labore id nulla. Esse ea consectetur sit do dolor excepteur ut commodo velit voluptate. Sunt irure anim enim nisi consectetur fugiat excepteur laborum tempor aliquip sit. In nulla enim occaecat magna id duis aliquip adipisicing exercitation id.",
-        "phone": "+1 (882) 560-2206",
-        "registered": "Mon May 05 2014 09:07:38 GMT+0000 (UTC)",
-        "specification": [
-            {
-                "specType": "elit",
-                "description": "Aliquip anim sint id exercitation nisi aliquip cupidatat amet dolore aliquip non ipsum nostrud."
-            },
-            {
-                "specType": "ut",
-                "description": "Pariatur ex id incididunt aliquip pariatur proident ea."
-            },
-            {
-                "specType": "magna",
-                "description": "Voluptate sunt do culpa aute id et minim in veniam et."
-            },
-            {
-                "specType": "nisi",
-                "description": "Labore commodo pariatur esse mollit qui dolor incididunt cillum aliqua culpa ad dolore."
-            },
-            {
-                "specType": "nisi",
-                "description": "Adipisicing officia excepteur nisi fugiat in aliqua nisi ullamco commodo amet aute."
-            },
-            {
-                "specType": "culpa",
-                "description": "Aliquip dolor irure sit excepteur Lorem est ex."
-            }
-        ],
-        "featuresAndBenefits": [
-            "Sint dolore proident in nisi irure nisi sunt qui labore labore minim ea.",
-            "Deserunt do veniam labore veniam id ipsum aliqua excepteur.",
-            "Tempor incididunt dolore ad ut ipsum reprehenderit quis.",
-            "Id elit laboris nisi incididunt nisi laboris proident laborum duis officia eiusmod esse.",
-            "Ullamco exercitation nulla ea Lorem."
-        ],
-        "standardEquipment": [
-            "Amet magna veniam deserunt do ex ea magna fugiat laboris aliqua sit aute ut veniam.",
-            "Adipisicing tempor elit consectetur ipsum.",
-            "Fugiat in anim adipisicing Lorem.",
-            "Aute sint velit qui minim magna.",
-            "Reprehenderit do elit amet nostrud fugiat laborum Lorem pariatur."
+            "Elit est laboris consectetur elit incididunt eiusmod.",
+            "Non consectetur id enim ad.",
+            "Lorem exercitation deserunt eiusmod tempor in.",
+            "Id est excepteur amet anim dolore.",
+            "Dolor cillum Lorem enim excepteur officia ullamco pariatur adipisicing nostrud ipsum pariatur."
         ]
     }
 ]

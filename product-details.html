@@ -15,7 +15,7 @@
         integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="jquery-ui-1.12.1/jquery-ui.min.js"></script>
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="scripts/product-list.js"></script>
+    <script src="scripts/product-details.js"></script>
 </head>
 
 <body>
@@ -60,23 +60,47 @@
                 <h3 id="page-title" class="panel-title panel-center-title">Panel title</h3>
             </div>
             <div class="panel-body">
-                <div class="col-md-2">
+                <div class="col-md-4">
                     <div class="panel panel-default">
-                        <!-- <div class="panel-body" > -->
-                        <ul id="sub-category-menu"></ul>
-                        <!-- </div> -->
+                        <div id="product-image-container">
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-10">
+                <div class="col-md-8">
                     <div class="panel panel-default">
                         <div class="panel-body">
-                            <div id="product-list-container">
+                            <blockquote id="catchPhrase" class="blockquote">
+                                <p><b id="item-heading"></b></p>
+                                <p id="tag-line"></p>
+                            </blockquote>
+                            <blockquote class="blockquote">
+                                <p></p>
+                                <p id ="item-content">The OPTIMAX is the world's premier 90 second automatic x-ray film processor. Designed
+                                    as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher
+                                    capacity. The proven design of the OPTIMAX is efficient with energy, water &
+                                    chemical use, saving the OPTIMAX owner money while delivering outstanding quality
+                                    images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with
+                                    DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the
+                                    standard of excellence for 90 second automatic x-ray film processors.</p>
+                            </blockquote>
+                            <div class="row">
+
+                                <div class="btn-group flex-center">
+                                    <button type="button" id="btnShow" class="btn btn-default">FEATURES & BENEFITS</button>
+                                    <button type="button" id="btnShow2"  class="btn btn-primary">PRODUCT SPECS</button>
+                                    <button type="button" id="btnShow3"  class="btn btn-default">STANDARD EQUIPMENT</button>
+                                  </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div id="item-price" class="panel-footer panel-footer-title">Panel footer</div>
         </div>
+    </div>
+
+    <!-- modal -->
+    <div id="wrapper" class="wrapper">                                      
     </div>
 </body>
 
