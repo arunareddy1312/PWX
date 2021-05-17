@@ -33,6 +33,11 @@ body {
     text-transform: uppercase;
 }
 
+.active-nav a {
+    color           : #ff004c !important;
+    background-color: #485563;
+}
+
 .ui-tabs .ui-tabs-nav li.ui-tabs-active .ui-tabs-anchor,
 .ui-tabs .ui-tabs-nav li.ui-state-disabled .ui-tabs-anchor,
 .ui-tabs .ui-tabs-nav li.ui-tabs-loading .ui-tabs-anchor:focus {
@@ -220,17 +225,27 @@ span.ui-accordion-header-icon {
     background: #485563;
     padding   : 10px 0;
     text-align: center;
+    position  : fixed;
+    bottom    : 0;
+    width     : 100%;
 }
 
 .footer a {
-    color       :white;
-    font-size   : 20px;
-    padding     : 10px;
-    transition  : all .5s ease;
+    color     : white;
+    font-size : 20px;
+    padding   : 10px;
+    transition: all .5s ease;
 }
 
-
-
 .footer a:hover {
-    color:#ff004c;
+    color: #ff004c;
+}
+
+.slidesjs-pagination-item,
+.slidesjs-navigation {
+    display: none;
+}
+
+.page-min-height {
+    min-height: 900px;
 }

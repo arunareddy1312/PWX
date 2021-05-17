@@ -17,10 +17,11 @@
     <script src="jquery-ui-1.12.1/jquery-ui.min.js"></script>
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="scripts/product-list.js"></script>
+    <script src="scripts/main.js"></script>
 </head>
 
 <body>
-    <nav class="navbar navbar-default">
+    <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -31,7 +32,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="index.html">
                     <img width="" height="100%" src="assets/Caduceus_bw.png" alt="" srcset="">
                 </a>
                 <div class="navbar-text">
@@ -46,10 +47,10 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="About.html">About</a></li>
                     <li><a href="contact.html">Contact Us</a></li>
-                    <li><a href="product-list.html?productType=equipments">Equipments</a></li>
-                    <li><a href="product-list.html?productType=supplies">Supplies</a></li>
-                    <li><a href="product-list.html?productType=accessories">Accessories</a></li>
-                    <li><a href="product-list.html?productType=parts">Parts</a></li>
+                    <li data-key="equipments" ><a href="product-list.html?productType=equipments">Equipments</a></li>
+                    <li data-key="supplies" ><a href="product-list.html?productType=supplies">Supplies</a></li>
+                    <li data-key="accessories" ><a href="product-list.html?productType=accessories">Accessories</a></li>
+                    <li data-key="parts" ><a href="product-list.html?productType=parts">Parts</a></li>
                     <li><a href="information.html">Order Now</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
@@ -79,20 +80,17 @@
             </div>
         </div>
     </div>
-    <div class="row footer">
-        <div class="col-md-10">
+    <footer class="footer">
+        <div class="container">
             <p>TollFree: 1-800-827-9729</p>
             <p>©1997-2021 Pacific Northwest X-Ray Inc. - Sales & Marketing Division - All Rights Reserved</p>
-        </div>
-        <div class="col-md-2">            
             <a href="#"><i class="fa fa-facebook"></i></a>
             <a href="#"><i class="fa fa-twitter"></i></a>
             <a href="#"><i class="fa fa-linkedin"></i></a>
             <a href="#"><i class="fa fa-google-plus"></i></a>
             <a href="#"><i class="fa fa-skype"></i></a>
         </div>
-        <p></p>
-    </div>
+    </footer>
 </body>
 
 </html>

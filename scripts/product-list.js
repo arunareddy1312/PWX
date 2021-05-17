@@ -1,11 +1,13 @@
 $(document).ready(() => {
     var queryParam = getUrlVars();
     var key = queryParam[queryParam[0]];
+
     $.getJSON('jsonFiles/productTypeDetails.json', (data) => {
         $('#page-title').text(data.productTypeDetails[key].headerTitle.toUpperCase());
         createMenuItems(data.productTypeDetails[key].menuItems);
 
     })
+    $('[data-key='+key+']').addClass('active-nav');
 
 });
 
@@ -67,7 +69,7 @@ function createBootStrapPanel(imageSrc, productName, id) {
         role: 'button',
         class: 'btn btn-primary btn-lg btn-block',
         href: 'product-details.html?id=' + id,
-        text:'View Details'
+        text: 'View Details'
     })))
     return defaultPanel;
 }
