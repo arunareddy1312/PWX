@@ -604,5 +604,2113 @@
             "Id est excepteur amet anim dolore.",
             "Dolor cillum Lorem enim excepteur officia ullamco pariatur adipisicing nostrud ipsum pariatur."
         ]
-    }
+    },
+    {
+        "id": "11",
+        "isActive": true,
+        "cost": "$590.68",
+        "picture": "images/Medical/BS.jpg",
+        "category": "equipments",
+        "subCategory": "Medical/Care Equipment",
+        "company": "PROTEXC",
+        "productName": "Pedigo Bassinet Stands",
+        "catchPharse": "Bassinet Stands allows close approach",
+        "tagLine": "The Standard of Excellence in 90 Second Processing !",
+        "catchPharseContent": "Pedigo is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+        "specification": [
+            {
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+            },
+            {
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
+            },
+            {
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
+            },
+            {
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+            },
+            {
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
+        ],
+        "standardEquipment": [
+            "Comes complete and ready with all components for tabletop processing",
+            "Levelling legs for uneven surfaces",
+            "Spare parts kit",
+            " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+            "Floating lid for developer tank",
+            "Water supply hose",
+            "Tubing and hardware",
+            "Installation, Operating and Parts Manual"
+        ]
+    },
+    {
+        "id": "12",
+        "isActive": true,
+        "cost": "$599.00",
+        "picture": "images/Medical/Scc.jpg",
+        "category": "equipments",
+        "subCategory": "Medical/Care Equipment",
+        "company": "PROTEXC",
+        "productName": "Surgical Case Carts",
+        "catchPharse": "Surgical Case Carts",
+        "tagLine": "Surgical Case Carts-Designed to transport sterile packs from Central Supply to Surgery",
+        "catchPharseContent": "Surgical is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+        "specification": [
+            {
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+            },
+            {
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
+            },
+            {
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
+            },
+            {
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+            },
+            {
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
+        ],
+        "standardEquipment": [
+            "Comes complete and ready with all components for tabletop processing",
+            "Levelling legs for uneven surfaces",
+            "Spare parts kit",
+            " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+            "Floating lid for developer tank",
+            "Water supply hose",
+            "Tubing and hardware",
+            "Installation, Operating and Parts Manual"
+        ]
+    },
+    {
+        "id": "13",
+        "isActive": true,
+        "cost": "$889.00",
+        "picture": "images/Medical/sD.jpg",
+        "category": "equipments",
+        "subCategory": "Medical/Care Equipment",
+        "company": "PROTEXC",
+        "productName": "Anesthesia Cabinet",
+        "catchPharse": "Anesthesia Cabinet",
+        "tagLine": "Anesthesia Cabinet Carts-Designed to transport sterile packs from Central Supply to Surgery",
+        "catchPharseContent": "Surgical is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+        "specification": [
+            {
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+            },
+            {
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
+            },
+            {
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
+            },
+            {
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+            },
+            {
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
+        ],
+        "standardEquipment": [
+            "Comes complete and ready with all components for tabletop processing",
+            "Levelling legs for uneven surfaces",
+            "Spare parts kit",
+            " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+            "Floating lid for developer tank",
+            "Water supply hose",
+            "Tubing and hardware",
+            "Installation, Operating and Parts Manual"
+        ]
+    },
+    {
+        "id": "14",
+        "isActive": true,
+        "cost": "$1090.00",
+        "picture": "images/PowerTables/amTable.jpg",
+        "category": "equipments",
+        "subCategory": "Power and Exam Tables",
+        "company": "PROTEXC",
+        "productName": "Arm Table",
+        "catchPharse": "Arm Table",
+        "tagLine": "Arm table Carts-Designed to transport sterile packs from Central Supply to Surgery",
+        "catchPharseContent": "Surgical is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+        "specification": [
+            {
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+            },
+            {
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
+            },
+            {
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
+            },
+            {
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+            },
+            {
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
+        ],
+        "standardEquipment": [
+            "Comes complete and ready with all components for tabletop processing",
+            "Levelling legs for uneven surfaces",
+            "Spare parts kit",
+            " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+            "Floating lid for developer tank",
+            "Water supply hose",
+            "Tubing and hardware",
+            "Installation, Operating and Parts Manual"
+        ]
+    },
+    {
+        "id": "15",
+        "isActive": true,
+        "cost": "$2590.00",
+        "picture": "images/PowerTables/surgical.jpg",
+        "category": "equipments",
+        "subCategory": "Power and Exam Tables",
+        "company": "PROTEXC",
+        "productName": "Surgical Table",
+        "catchPharse": "Surgical Table",
+        "tagLine": "Surgical table Carts-Designed to transport sterile packs from Central Supply to Surgery",
+        "catchPharseContent": "Surgical is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+        "specification": [
+            {
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+            },
+            {
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
+            },
+            {
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
+            },
+            {
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+            },
+            {
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
+        ],
+        "standardEquipment": [
+            "Comes complete and ready with all components for tabletop processing",
+            "Levelling legs for uneven surfaces",
+            "Spare parts kit",
+            " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+            "Floating lid for developer tank",
+            "Water supply hose",
+            "Tubing and hardware",
+            "Installation, Operating and Parts Manual"
+        ]
+    },
+    {
+        "id": "16",
+        "isActive": true,
+        "cost": "$5000.00",
+        "picture": "images/PowerTables/ultrasound.jpg",
+        "category": "equipments",
+        "subCategory": "Power and Exam Tables",
+        "company": "PROTEXC",
+        "productName": "Ultrasound Table",
+        "catchPharse": "Ultrasound Table",
+        "tagLine": "Ultrasound table Carts-Designed to transport sterile packs from Central Supply to Surgery",
+        "catchPharseContent": "Ultrasound is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+        "specification": [
+            {
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+            },
+            {
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
+            },
+            {
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
+            },
+            {
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+            },
+            {
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
+        ],
+        "standardEquipment": [
+            "Comes complete and ready with all components for tabletop processing",
+            "Levelling legs for uneven surfaces",
+            "Spare parts kit",
+            " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+            "Floating lid for developer tank",
+            "Water supply hose",
+            "Tubing and hardware",
+            "Installation, Operating and Parts Manual"
+        ]
+    },
+    {
+        "id": "17",
+        "isActive": true,
+        "cost": "$5000.00",
+        "picture": "images/Radiographic/BRT-DLO_1.jpg",
+        "category": "equipments",
+        "subCategory": "Portable Radiographic",
+        "company": "PROTEXC",
+        "productName": "Mammography Exam Chair",
+        "catchPharse": "Mammography Exam Chair",
+        "tagLine": "Mammography Exam Chair Carts-Designed to transport sterile packs from Central Supply to Surgery",
+        "catchPharseContent": "Mammography Exam Chair is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+        "specification": [
+            {
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+            },
+            {
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
+            },
+            {
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
+            },
+            {
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+            },
+            {
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
+        ],
+        "standardEquipment": [
+            "Comes complete and ready with all components for tabletop processing",
+            "Levelling legs for uneven surfaces",
+            "Spare parts kit",
+            " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+            "Floating lid for developer tank",
+            "Water supply hose",
+            "Tubing and hardware",
+            "Installation, Operating and Parts Manual"
+        ]
+    },
+    {
+        "id": "18",
+        "isActive": true,
+        "cost": "$15000.00",
+        "picture": "images/Radiographic/CRH-MBC_1.jpg",
+        "category": "equipments",
+        "subCategory": "Portable Radiographic",
+        "company": "PROTEXC",
+        "productName": "Mammography Biopsy Chair",
+        "catchPharse": "Mammography Biopsy Chair",
+        "tagLine": "Mammography Biopsy Chair Carts-Designed to transport sterile packs from Central Supply to Surgery",
+        "catchPharseContent": "Mammography Biopsy Chair is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+        "specification": [
+            {
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+            },
+            {
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
+            },
+            {
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
+            },
+            {
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+            },
+            {
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
+        ],
+        "standardEquipment": [
+            "Comes complete and ready with all components for tabletop processing",
+            "Levelling legs for uneven surfaces",
+            "Spare parts kit",
+            " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+            "Floating lid for developer tank",
+            "Water supply hose",
+            "Tubing and hardware",
+            "Installation, Operating and Parts Manual"
+        ]
+    },
+    {
+        "id": "19",
+        "isActive": true,
+        "cost": "$3093.00",
+        "picture": "images/Radiation/ASM-990_1.jpg",
+        "category": "equipments",
+        "subCategory": "Radiation Survey Meters",
+        "company": "PROTEXC",
+        "productName": "Advanced Survey Meter",
+        "catchPharse": "Advanced Survey Meter",
+        "tagLine": "Advanced Survey Meter Carts-Designed to transport sterile packs from Central Supply to Surgery",
+        "catchPharseContent": "Advanced Survey Meter is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+        "specification": [
+            {
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+            },
+            {
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
+            },
+            {
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
+            },
+            {
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+            },
+            {
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
+        ],
+        "standardEquipment": [
+            "Comes complete and ready with all components for tabletop processing",
+            "Levelling legs for uneven surfaces",
+            "Spare parts kit",
+            " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+            "Floating lid for developer tank",
+            "Water supply hose",
+            "Tubing and hardware",
+            "Installation, Operating and Parts Manual"
+        ]
+    },
+     {
+        "id": "20",
+        "isActive": true,
+        "cost": "$2853.00",
+        "picture": "images/Radiation/48-3739_1.jpg",
+        "category": "equipments",
+        "subCategory": "Radiation Survey Meters",
+        "company": "PROTEXC",
+        "productName": "Chamber Survey Meter",
+        "catchPharse": "Chamber Survey Meter",
+        "tagLine": "Chamber Survey Meter Carts-Designed to transport sterile packs from Central Supply to Surgery",
+        "catchPharseContent": "Chamber Survey Meter is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+        "specification": [
+            {
+                "specType": "FilmSize",
+                "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+            },
+            {
+                "specType": "Processing Time",
+                "description": " 90 seconds (factory set), leading edge to leading edge."
+            },
+            {
+                "specType": "Developer Temp",
+                "description": " 82-99 oF (28-37oC), adjustable."
+            },
+            {
+                "specType": "Replenishment",
+                "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+            },
+            {
+                "specType": "Net Weight (Empty/Filled)",
+                "description": " 77/110 lbs (35/50 kg)"
+            },
+            {
+                "specType": "Tank Capacity",
+                "description": " 1.3 gallons (5.0 liters) in each section"
+            },
+            {
+                "specType": "Film Drying",
+                "description": " Warm circulated air, factory set to 149oF (65oC)."
+            },
+            {
+                "specType": "Chemical Storage",
+                "description": " 6.6 gallon (25 L) tanks"
+            },
+            {
+                "specType": "Film & Chemistry",
+                "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+            }
+        ],
+        "featuresAndBenefits": [
+            "Lightweight, yet rugged tabletop processor",
+            "Laboris sit nisi officia adipisicing.",
+            "Irure ullamco ut nostrud elit sunt.",
+            "Proident consequat ullamco nisi in ut ea excepteur.",
+            "Lorem adipisicing magna magna mollit officia."
+        ],
+        "standardEquipment": [
+            "Comes complete and ready with all components for tabletop processing",
+            "Levelling legs for uneven surfaces",
+            "Spare parts kit",
+            " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+            "Floating lid for developer tank",
+            "Water supply hose",
+            "Tubing and hardware",
+            "Installation, Operating and Parts Manual"
+        ]
+    },
+    {
+       "id": "21",
+       "isActive": true,
+       "cost": "$6315.00",
+       "picture": "images/Recovery Sytem/AJEX-240HF_1.jpg",
+       "category": "equipments",
+       "subCategory": "Silver Recovery Systems",
+       "company": "PROTEXC",
+       "productName": "Portable X-Ray Unit",
+       "catchPharse": "Portable X-Ray Unit",
+       "tagLine": "Portable X-Ray Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+       "catchPharseContent": "Portable X-Ray Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+       "specification": [
+           {
+               "specType": "FilmSize",
+               "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+           },
+           {
+               "specType": "Processing Time",
+               "description": " 90 seconds (factory set), leading edge to leading edge."
+           },
+           {
+               "specType": "Developer Temp",
+               "description": " 82-99 oF (28-37oC), adjustable."
+           },
+           {
+               "specType": "Replenishment",
+               "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+           },
+           {
+               "specType": "Net Weight (Empty/Filled)",
+               "description": " 77/110 lbs (35/50 kg)"
+           },
+           {
+               "specType": "Tank Capacity",
+               "description": " 1.3 gallons (5.0 liters) in each section"
+           },
+           {
+               "specType": "Film Drying",
+               "description": " Warm circulated air, factory set to 149oF (65oC)."
+           },
+           {
+               "specType": "Chemical Storage",
+               "description": " 6.6 gallon (25 L) tanks"
+           },
+           {
+               "specType": "Film & Chemistry",
+               "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+           }
+       ],
+       "featuresAndBenefits": [
+           "Lightweight, yet rugged tabletop processor",
+           "Laboris sit nisi officia adipisicing.",
+           "Irure ullamco ut nostrud elit sunt.",
+           "Proident consequat ullamco nisi in ut ea excepteur.",
+           "Lorem adipisicing magna magna mollit officia."
+       ],
+       "standardEquipment": [
+           "Comes complete and ready with all components for tabletop processing",
+           "Levelling legs for uneven surfaces",
+           "Spare parts kit",
+           " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+           "Floating lid for developer tank",
+           "Water supply hose",
+           "Tubing and hardware",
+           "Installation, Operating and Parts Manual"
+       ]
+   },
+   {
+      "id": "22",
+      "isActive": true,
+      "cost": "$6315.00",
+      "picture": "images/FilmBoxes/27001_1.jpg",
+      "category": "equipments",
+      "subCategory": "Film Viewboxes",
+      "company": "PROTEXC",
+      "productName": "Regular Series Illuminators",
+      "catchPharse": "Regular Series Illuminators",
+      "tagLine": "Regular Series Illuminators Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+      "catchPharseContent": "Regular Series Illuminators Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+      "specification": [
+          {
+              "specType": "FilmSize",
+              "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+          },
+          {
+              "specType": "Processing Time",
+              "description": " 90 seconds (factory set), leading edge to leading edge."
+          },
+          {
+              "specType": "Developer Temp",
+              "description": " 82-99 oF (28-37oC), adjustable."
+          },
+          {
+              "specType": "Replenishment",
+              "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+          },
+          {
+              "specType": "Net Weight (Empty/Filled)",
+              "description": " 77/110 lbs (35/50 kg)"
+          },
+          {
+              "specType": "Tank Capacity",
+              "description": " 1.3 gallons (5.0 liters) in each section"
+          },
+          {
+              "specType": "Film Drying",
+              "description": " Warm circulated air, factory set to 149oF (65oC)."
+          },
+          {
+              "specType": "Chemical Storage",
+              "description": " 6.6 gallon (25 L) tanks"
+          },
+          {
+              "specType": "Film & Chemistry",
+              "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+          }
+      ],
+      "featuresAndBenefits": [
+          "Lightweight, yet rugged tabletop processor",
+          "Laboris sit nisi officia adipisicing.",
+          "Irure ullamco ut nostrud elit sunt.",
+          "Proident consequat ullamco nisi in ut ea excepteur.",
+          "Lorem adipisicing magna magna mollit officia."
+      ],
+      "standardEquipment": [
+          "Comes complete and ready with all components for tabletop processing",
+          "Levelling legs for uneven surfaces",
+          "Spare parts kit",
+          " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+          "Floating lid for developer tank",
+          "Water supply hose",
+          "Tubing and hardware",
+          "Installation, Operating and Parts Manual"
+      ]
+  },
+  {
+     "id": "23",
+     "isActive": true,
+     "cost": " $916.35",
+     "picture": "images/parts/grid.jpg",
+     "category": "parts",
+     "subCategory": "X-Ray Grids",
+     "company": "PROTEXC",
+     "productName": "Standard X-Ray Grids",
+     "catchPharse": "Standard X-Ray Grids",
+     "tagLine": "Standard X-Ray Grids Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+     "catchPharseContent": "Standard X-Ray Grids Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+     "specification": [
+         {
+             "specType": "FilmSize",
+             "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+         },
+         {
+             "specType": "Processing Time",
+             "description": " 90 seconds (factory set), leading edge to leading edge."
+         },
+         {
+             "specType": "Developer Temp",
+             "description": " 82-99 oF (28-37oC), adjustable."
+         },
+         {
+             "specType": "Replenishment",
+             "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+         },
+         {
+             "specType": "Net Weight (Empty/Filled)",
+             "description": " 77/110 lbs (35/50 kg)"
+         },
+         {
+             "specType": "Tank Capacity",
+             "description": " 1.3 gallons (5.0 liters) in each section"
+         },
+         {
+             "specType": "Film Drying",
+             "description": " Warm circulated air, factory set to 149oF (65oC)."
+         },
+         {
+             "specType": "Chemical Storage",
+             "description": " 6.6 gallon (25 L) tanks"
+         },
+         {
+             "specType": "Film & Chemistry",
+             "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+         }
+     ],
+     "featuresAndBenefits": [
+         "Lightweight, yet rugged tabletop processor",
+         "Laboris sit nisi officia adipisicing.",
+         "Irure ullamco ut nostrud elit sunt.",
+         "Proident consequat ullamco nisi in ut ea excepteur.",
+         "Lorem adipisicing magna magna mollit officia."
+     ],
+     "standardEquipment": [
+         "Comes complete and ready with all components for tabletop processing",
+         "Levelling legs for uneven surfaces",
+         "Spare parts kit",
+         " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+         "Floating lid for developer tank",
+         "Water supply hose",
+         "Tubing and hardware",
+         "Installation, Operating and Parts Manual"
+     ]
+ },
+ {
+    "id": "24",
+    "isActive": true,
+    "cost": " $9116.35",
+    "picture": "images/parts/lamp.jpg",
+    "category": "parts",
+    "subCategory": "Collimator Lamps",
+    "company": "PROTEXC",
+    "productName": "Collimator Lamps Clearance",
+    "catchPharse": "Collimator Lamps Clearance",
+    "tagLine": "Collimator Lamps Clearance Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+    "catchPharseContent": "Collimator Lamps Clearance Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+    "specification": [
+        {
+            "specType": "FilmSize",
+            "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+        },
+        {
+            "specType": "Processing Time",
+            "description": " 90 seconds (factory set), leading edge to leading edge."
+        },
+        {
+            "specType": "Developer Temp",
+            "description": " 82-99 oF (28-37oC), adjustable."
+        },
+        {
+            "specType": "Replenishment",
+            "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+        },
+        {
+            "specType": "Net Weight (Empty/Filled)",
+            "description": " 77/110 lbs (35/50 kg)"
+        },
+        {
+            "specType": "Tank Capacity",
+            "description": " 1.3 gallons (5.0 liters) in each section"
+        },
+        {
+            "specType": "Film Drying",
+            "description": " Warm circulated air, factory set to 149oF (65oC)."
+        },
+        {
+            "specType": "Chemical Storage",
+            "description": " 6.6 gallon (25 L) tanks"
+        },
+        {
+            "specType": "Film & Chemistry",
+            "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+        }
+    ],
+    "featuresAndBenefits": [
+        "Lightweight, yet rugged tabletop processor",
+        "Laboris sit nisi officia adipisicing.",
+        "Irure ullamco ut nostrud elit sunt.",
+        "Proident consequat ullamco nisi in ut ea excepteur.",
+        "Lorem adipisicing magna magna mollit officia."
+    ],
+    "standardEquipment": [
+        "Comes complete and ready with all components for tabletop processing",
+        "Levelling legs for uneven surfaces",
+        "Spare parts kit",
+        " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+        "Floating lid for developer tank",
+        "Water supply hose",
+        "Tubing and hardware",
+        "Installation, Operating and Parts Manual"
+    ]
+},
+{
+   "id": "25",
+   "isActive": true,
+   "cost": "$735.00",
+   "picture": "images/parts/cables.jpg",
+   "category": "parts",
+   "subCategory": "High Voltage Cables",
+   "company": "PROTEXC",
+   "productName": "Voltage Tension Cables.",
+   "catchPharse": "Voltage Tension Cables",
+   "tagLine": "Voltage Tension Cables Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Voltage Tension Cables Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "26",
+   "isActive": true,
+   "cost": "$735.00",
+   "picture": "images/supplies/MCDR11-250_1.jpg",
+   "category": "supplies",
+   "subCategory": "Custom Printed Media",
+   "company": "PROTEXC",
+   "productName": "Medical Grade CD-R Media.",
+   "catchPharse": "Medical Grade CD-R Media",
+   "tagLine": "Medical Grade CD-R Media Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Medical Grade CD-R Media Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "27",
+   "isActive": true,
+   "cost": "$95.00",
+   "picture": "images/supplies/JLD-DSP_1.jpg",
+   "category": "supplies",
+   "subCategory": "Jacket Labels/Dispensers",
+   "company": "PROTEXC",
+   "productName": "Label Dispenser",
+   "catchPharse": "Label Dispenser",
+   "tagLine": "Label Dispenser Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Label Dispenser Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "28",
+   "isActive": true,
+   "cost": "$735.00",
+   "picture": "images/supplies/CleanScreen_1.jpg",
+   "category": "supplies",
+   "subCategory": "Processing Chemistry",
+   "company": "PROTEXC",
+   "productName": "CR Plate Cleaning Kit",
+   "catchPharse": "CR Plate Cleaning Kit",
+   "tagLine": "CR Plate Cleaning Kit Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "CR Plate Cleaning Kit Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "29",
+   "isActive": true,
+   "cost": "$5,416.25",
+   "picture": "images/accessories/P-2010_1.jpg",
+   "category": "accessories",
+   "subCategory": "Cabinetry/Storage",
+   "company": "PROTEXC",
+   "productName": "Blanket Warming Cabinet",
+   "catchPharse": "Blanket Warming Cabinet",
+   "tagLine": "Blanket Warming Cabinet Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Blanket Warming Cabinet Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "30",
+   "isActive": true,
+   "cost": "$4,644.72",
+   "picture": "images/accessories/P-2010-S_1.jpg",
+   "category": "accessories",
+   "subCategory": "Cabinetry/Storage",
+   "company": "PROTEXC",
+   "productName": "Standard Warming Cabinet",
+   "catchPharse": "Standard Warming Cabinet",
+   "tagLine": "Standard Warming Cabinet Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Standard Warming Cabinet Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "31",
+   "isActive": true,
+   "cost": "$8,844.58",
+   "picture": "images/accessories/P-2020_1.jpg",
+   "category": "accessories",
+   "subCategory": "Cabinetry/Storage",
+   "company": "PROTEXC",
+   "productName": "Deluxe Warming Cabinet",
+   "catchPharse": "Deluxe Warming Cabinet",
+   "tagLine": "Deluxe Warming Cabinet Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Deluxe Warming Cabinet Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "32",
+   "isActive": true,
+   "cost": "$449.20",
+   "picture": "images/accessories/PNWX7X17HP_1.jpg",
+   "category": "accessories",
+   "subCategory": "Cassettes/CR",
+   "company": "PROTEXC",
+   "productName": "Aluminum Cassettes",
+   "catchPharse": "Aluminum Cassettes",
+   "tagLine": "Aluminum Cassettes Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Aluminum Cassettes Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "33",
+   "isActive": true,
+   "cost": "$345.20",
+   "picture": "images/accessories/CRU-20_1.jpg",
+   "category": "accessories",
+   "subCategory": "Cassettes/CR",
+   "company": "PROTEXC",
+   "productName": "Multiple Cassette Rack",
+   "catchPharse": "Multiple Cassette Rack",
+   "tagLine": "Multiple Cassette Rack Unit Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Multiple Cassette Rack Unit is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "34",
+   "isActive": true,
+   "cost": "$69.00",
+   "picture": "images/accessories/GMC-20_1.jpg",
+   "category": "accessories",
+   "subCategory": "Exam Room Product",
+   "company": "PROTEXC",
+   "productName": "Exam Cape",
+   "catchPharse": "Exam Cape",
+   "tagLine": "Exam Cape Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Exam Cape is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "35",
+   "isActive": true,
+   "cost": "$210.84",
+   "picture": "images/accessories/GXE-50_1.jpg",
+   "category": "accessories",
+   "subCategory": "Exam Room Product",
+   "company": "PROTEXC",
+   "productName": "Exam Gown",
+   "catchPharse": "Exam Gown",
+   "tagLine": "Exam Gown Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Exam Gown is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "36",
+   "isActive": true,
+   "cost": "$210.84",
+   "picture": "images/accessories/XP-01_1.jpg",
+   "category": "accessories",
+   "subCategory": "Film/Cassette Cases",
+   "company": "PROTEXC",
+   "productName": "Film Portfolio",
+   "catchPharse": "Film Portfolio",
+   "tagLine": "Film Portfolio Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Film Portfolio is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "37",
+   "isActive": true,
+   "cost": "$266.67",
+   "picture": "images/accessories/RC-02_2.jpg",
+   "category": "accessories",
+   "subCategory": "Film/Cassette Cases",
+   "company": "PROTEXC",
+   "productName": "Rolling X-ray Case",
+   "catchPharse": "Rolling X-ray Case",
+   "tagLine": "Rolling X-ray Case Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Rolling X-ray Case is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "38",
+   "isActive": true,
+   "cost": "$190.00",
+   "picture": "images/accessories/RAR-P1_1.jpg",
+   "category": "accessories",
+   "subCategory": "Caddies/Racks/Foam",
+   "company": "PROTEXC",
+   "productName": "Wall Mount Peg Rack",
+   "catchPharse": "Wall Mount Peg Rack",
+   "tagLine": "Wall Mount Peg Rack Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Wall Mount Peg Rack is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "39",
+   "isActive": true,
+   "cost": "$190.00",
+   "picture": "images/accessories/60065_1.jpg",
+   "category": "accessories",
+   "subCategory": "Caddies/Racks/Foam",
+   "company": "PROTEXC",
+   "productName": "Tubular Rack",
+   "catchPharse": "Tubular Rack",
+   "tagLine": "Tubular Rack Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Tubular Rack is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "39",
+   "isActive": true,
+   "cost": "$32.95",
+   "picture": "images/accessories/EPP003_2.jpg",
+   "category": "accessories",
+   "subCategory": "X-Ray Markers",
+   "company": "PROTEXC",
+   "productName": "Embedded Lead Markers",
+   "catchPharse": "Embedded Lead Markers",
+   "tagLine": "Embedded Lead Markers Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Embedded Lead Markers is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+},
+{
+   "id": "40",
+   "isActive": true,
+   "cost": "$84.00",
+   "picture": "images/accessories/SDM-BB15_1.jpg",
+   "category": "accessories",
+   "subCategory": "X-Ray Markers",
+   "company": "PROTEXC",
+   "productName": "Mammography Skin Dots",
+   "catchPharse": "Mammography Skin Dots",
+   "tagLine": "Mammography Skin Dots Carts-Designed to transport sterile packs from Central Supply to Surgery",
+   "catchPharseContent": "Mammography Skin Dots is the world's premier 90 second automatic x-ray film processor. Designed as a rugged workhorse, the OPTIMAX can handle film volumes from very low to a higher capacity. The proven design of the OPTIMAX is efficient with energy, water & chemical use, saving the OPTIMAX owner money while delivering outstanding quality images.The OPTIMAX is manufactured by Protec Medical in Germany in compliance with DIN ISO 9001:2000, IEC, TUV, CE, CSA, and UL quality standards. The OPTIMAX sets the standard of excellence for 90 second automatic x-ray film processors.",
+   "specification": [
+       {
+           "specType": "FilmSize",
+           "description": " 4” x 4” (10 cm x 10 cm) min. to 14” (43 cm) X any length max. Will accept roll film."
+       },
+       {
+           "specType": "Processing Time",
+           "description": " 90 seconds (factory set), leading edge to leading edge."
+       },
+       {
+           "specType": "Developer Temp",
+           "description": " 82-99 oF (28-37oC), adjustable."
+       },
+       {
+           "specType": "Replenishment",
+           "description": " Rates adjustable either 450 ml per 10 sq. ft. (ml/m2) or 600 ml per 10 sq. ft. (ml/m2). Manual pumping selection allows for automatic fill of the internal chemical tanks."
+       },
+       {
+           "specType": "Net Weight (Empty/Filled)",
+           "description": " 77/110 lbs (35/50 kg)"
+       },
+       {
+           "specType": "Tank Capacity",
+           "description": " 1.3 gallons (5.0 liters) in each section"
+       },
+       {
+           "specType": "Film Drying",
+           "description": " Warm circulated air, factory set to 149oF (65oC)."
+       },
+       {
+           "specType": "Chemical Storage",
+           "description": " 6.6 gallon (25 L) tanks"
+       },
+       {
+           "specType": "Film & Chemistry",
+           "description": " Use standard medical X-Ray film and chemistry formulated for automatic medical X-Ray film processors."
+       }
+   ],
+   "featuresAndBenefits": [
+       "Lightweight, yet rugged tabletop processor",
+       "Laboris sit nisi officia adipisicing.",
+       "Irure ullamco ut nostrud elit sunt.",
+       "Proident consequat ullamco nisi in ut ea excepteur.",
+       "Lorem adipisicing magna magna mollit officia."
+   ],
+   "standardEquipment": [
+       "Comes complete and ready with all components for tabletop processing",
+       "Levelling legs for uneven surfaces",
+       "Spare parts kit",
+       " 6.6 gallon (25 liter) replenishment tanks with filtering replenishment straws",
+       "Floating lid for developer tank",
+       "Water supply hose",
+       "Tubing and hardware",
+       "Installation, Operating and Parts Manual"
+   ]
+}
 ]

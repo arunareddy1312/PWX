@@ -112,7 +112,7 @@ span.ui-accordion-header-icon {
     display: flex;
 }
 
-.input-group {
+.form-control {
     border: 1px solid #485563;
 }
 
@@ -214,4 +214,23 @@ span.ui-accordion-header-icon {
     text-align    : center;
     text-transform: uppercase;
     margin        : 10px;
+}
+
+.footer {
+    background: #485563;
+    padding   : 10px 0;
+    text-align: center;
+}
+
+.footer a {
+    color       :white;
+    font-size   : 20px;
+    padding     : 10px;
+    transition  : all .5s ease;
+}
+
+
+
+.footer a:hover {
+    color:#ff004c;
 }
