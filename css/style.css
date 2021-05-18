@@ -249,3 +249,8 @@ span.ui-accordion-header-icon {
 .page-min-height {
     min-height: 900px;
 }
+
+.active {
+    background-color: #d45806 !important;
+  }
+  

@@ -14,7 +14,7 @@ $(document).ready(() => {
 function createMenuItems(items) {
     $('#sub-category-menu').append(items.map(menuItem => $("<li>").append($("<div>").html(menuItem))));
     $('#sub-category-menu').menu();
-    $('#sub-category-menu li').on('click', (event) => {
+    $('#sub-category-menu li .ui-menu-item-wrapper').on('click', (event) => {
         $.getJSON('jsonFiles/products.json', (data) => {
             loadProducts(data, $(event.target).text());
             $('#sub-category-menu li').removeClass('menu-active');
