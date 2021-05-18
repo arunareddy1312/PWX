@@ -1,7 +1,9 @@
 $(document).ready(() => {
     var id = getUrlVars()["id"];
     loadProduct(id);
-
+    featuresBtn();
+    ProdctSpec();
+    standardEquip();
 });
 function loadProductsDetailsImage(src) {
     var img = $('<img />', {
@@ -59,7 +61,10 @@ function featureAndBenifitDailog(featuresAndBenefits) {
             width: '450px',
             maxHeight: '600px',
             show: { effect: "fade", duration: 400 },
-            hide: { effect: "fade", duration: 400 }
+            hide: { effect: "fade", duration: 400 },
+            close: function () {
+                removeBtnState();
+            }
         });
         $('#wrapper').dialog('open');
         $('button.ui-dialog-titlebar-close').empty().append($('<span>', {
@@ -78,7 +83,10 @@ function productSpecDailog(specifications) {
             width: '450px',
             maxHeight: '600px',
             show: { effect: "fade", duration: 400 },
-            hide: { effect: "fade", duration: 400 }
+            hide: { effect: "fade", duration: 400 },
+            close: function () {
+                removeBtnState();
+            }
         });
         $('#wrapper').dialog('open');
         $('button.ui-dialog-titlebar-close').empty().append($('<span>', {
@@ -98,7 +106,10 @@ function standardEquipmentDailog(standardEquipment) {
             width: '450px',
             maxHeight: '600px',
             show: { effect: "fade", duration: 400 },
-            hide: { effect: "fade", duration: 400 }
+            hide: { effect: "fade", duration: 400 },
+            close: function () {
+                removeBtnState();
+            }
         });
         $('#wrapper').dialog('open');
         $('button.ui-dialog-titlebar-close').empty().append($('<span>', {
@@ -121,11 +132,36 @@ function convertStringArrayToUl(stringArray) {
 function convertSpecificationToUl(stringArray) {
     var ul = $('<ul>');
     stringArray.map(specObj => $('<li>', {
-        html: $('<b>', {html:specObj.specType})[0].outerHTML +':'+ $('<span>', {html: specObj.description})[0].outerHTML 
+        html: $('<b>', { html: specObj.specType })[0].outerHTML + ':' + $('<span>', { html: specObj.description })[0].outerHTML
     })).forEach(element => {
         $(ul).append(element)
     });;
     return ul;
 }
 
+function featuresBtn() {
+    $("#btnShow").click(function () {
+        removeBtnState();
+        $(this).addClass("active");
+    });
+}
 
+function ProdctSpec() {
+
+    $("#btnShow2").click(function () {
+        removeBtnState();
+        $(this).addClass("active");
+    });
+}
+
+function standardEquip() {
+    $("#btnShow3").click(function () {
+        removeBtnState();
+        $(this).addClass("active");
+    });
+}
+
+function removeBtnState() {
+    $("#btnShow,#btnShow2,#btnShow3").removeClass("active");
+
+}
